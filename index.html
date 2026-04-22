@@ -155,16 +155,19 @@
   .leaflet-cultureExtentPolygons-pane {
     isolation: isolate;
   }
-  /* currentColor is set in JS to match each family’s fill (tinted glow) */
+  /* currentColor is set in JS to match each family’s fill (tinted glow).
+     Avoid SVG feGaussianBlur + 3 drop-shadows (very expensive on pan/zoom). */
   .leaflet-languageFamilyPolygons-pane path.lang-poly-path,
   .leaflet-cultureExtentPolygons-pane path.lang-poly-path {
     mix-blend-mode: soft-light;
-    filter: url(#lang-poly-soft)
-      drop-shadow(0 0 1px rgba(0, 0, 0, 0.5))
-      drop-shadow(0 0 8px currentColor)
-      drop-shadow(0 0 20px currentColor);
+    filter: drop-shadow(0 0 0.5px rgba(0, 0, 0, 0.5))
+      drop-shadow(0 0 9px currentColor);
     vector-effect: non-scaling-stroke;
     transition: fill-opacity 0.25s ease, stroke-opacity 0.25s ease, opacity 0.25s ease, filter 0.25s ease;
+  }
+  .atlas-poly-vision--high .leaflet-languageFamilyPolygons-pane path.lang-poly-path,
+  .atlas-poly-vision--high .leaflet-cultureExtentPolygons-pane path.lang-poly-path {
+    filter: url(#lang-poly-soft) drop-shadow(0 0 1px rgba(0, 0, 0, 0.5)) drop-shadow(0 0 8px currentColor) drop-shadow(0 0 20px currentColor);
   }
 
   .leaflet-overlay-pane path.terr-poly-path {
@@ -173,22 +176,13 @@
     transition: fill-opacity 0.28s ease, stroke-opacity 0.28s ease, opacity 0.28s ease, filter 0.28s ease;
   }
   .leaflet-overlay-pane path.terr-poly--history {
-    filter:
-      drop-shadow(0 0 2px rgba(2, 8, 16, 0.55))
-      drop-shadow(0 0 10px rgba(14, 165, 233, 0.22))
-      drop-shadow(0 0 22px rgba(14, 165, 233, 0.1));
+    filter: drop-shadow(0 0 1.5px rgba(2, 8, 16, 0.5)) drop-shadow(0 0 10px rgba(14, 165, 233, 0.2));
   }
   .leaflet-overlay-pane path.terr-poly--archaeology {
-    filter:
-      drop-shadow(0 0 2px rgba(2, 8, 16, 0.55))
-      drop-shadow(0 0 10px rgba(245, 158, 11, 0.24))
-      drop-shadow(0 0 22px rgba(245, 158, 11, 0.11));
+    filter: drop-shadow(0 0 1.5px rgba(2, 8, 16, 0.5)) drop-shadow(0 0 10px rgba(245, 158, 11, 0.22));
   }
   .leaflet-overlay-pane path.terr-poly--linguistic {
-    filter:
-      drop-shadow(0 0 2px rgba(2, 8, 16, 0.55))
-      drop-shadow(0 0 10px rgba(168, 85, 247, 0.22))
-      drop-shadow(0 0 22px rgba(168, 85, 247, 0.1));
+    filter: drop-shadow(0 0 1.5px rgba(2, 8, 16, 0.5)) drop-shadow(0 0 10px rgba(168, 85, 247, 0.2));
   }
 
   @media (prefers-reduced-motion: reduce) {
@@ -214,7 +208,7 @@
     .leaflet-languageFamilyPolygons-pane path.lang-poly-path,
     .leaflet-cultureExtentPolygons-pane path.lang-poly-path {
       mix-blend-mode: soft-light;
-      filter: url(#lang-poly-soft);
+      filter: drop-shadow(0 0 0.5px rgba(0, 0, 0, 0.45)) drop-shadow(0 0 7px currentColor);
     }
     .leaflet-overlay-pane path.terr-poly--history,
     .leaflet-overlay-pane path.terr-poly--archaeology,
@@ -4507,35 +4501,9 @@ function initMap() {
       atlasInitSearchFilterCheckboxes();
     }
   }
+  // Block the loading overlay only on language + culture “wash” layers (the main map read).
+  // Temporal territories + UNESCO load in parallel but do not delay first interaction.
   const _dataWaits = [];
-  if (typeof TemporalTerritories !== 'undefined' && TemporalTerritories.loadPromise) {
-    _dataWaits.push(TemporalTerritories.loadPromise);
-  }
-  if (typeof UnescoHeritage !== 'undefined' && typeof UnescoHeritage.init === 'function') {
-    _dataWaits.push(
-      UnescoHeritage.init(map, {
-        geojsonUrl: 'data/unesco-heritage.geojson',
-        getMarkerOpacity: function () {
-          return markerOpacity;
-        },
-        initialVisible: window._atlasUnescoInitialVisible !== false,
-        onReady: function (info) {
-          const el = document.getElementById('unescoLayerItem');
-          const cEl = document.getElementById('unescoLayerCount');
-          if (cEl && info && info.featureCount != null && info.ok) {
-            cEl.textContent = info.featureCount + ' sites';
-          } else if (cEl && info && !info.ok) {
-            cEl.textContent = 'unavailable';
-          }
-          if (el && typeof UnescoHeritage !== 'undefined' && UnescoHeritage.isVisible) {
-            el.classList.toggle('inactive', !UnescoHeritage.isVisible());
-          }
-          buildLegend();
-          scheduleAtlasURLSync();
-        }
-      })
-    );
-  }
   if (typeof LanguagePolygons !== 'undefined' && typeof LanguagePolygons.init === 'function') {
     _dataWaits.push(
       LanguagePolygons.init(map, langPolyOpts).then(function (ok) {
@@ -4556,9 +4524,32 @@ function initMap() {
       })
     );
   }
+  if (typeof UnescoHeritage !== 'undefined' && typeof UnescoHeritage.init === 'function') {
+    UnescoHeritage.init(map, {
+      geojsonUrl: 'data/unesco-heritage.geojson',
+      getMarkerOpacity: function () {
+        return markerOpacity;
+      },
+      initialVisible: window._atlasUnescoInitialVisible !== false,
+      onReady: function (info) {
+        const el = document.getElementById('unescoLayerItem');
+        const cEl = document.getElementById('unescoLayerCount');
+        if (cEl && info && info.featureCount != null && info.ok) {
+          cEl.textContent = info.featureCount + ' sites';
+        } else if (cEl && info && !info.ok) {
+          cEl.textContent = 'unavailable';
+        }
+        if (el && typeof UnescoHeritage !== 'undefined' && UnescoHeritage.isVisible) {
+          el.classList.toggle('inactive', !UnescoHeritage.isVisible());
+        }
+        buildLegend();
+        scheduleAtlasURLSync();
+      }
+    });
+  }
   if (_dataWaits.length) {
     const _min = new Promise(function (r) {
-      setTimeout(r, 420);
+      setTimeout(r, 100);
     });
     Promise.all(_dataWaits.concat(_min)).finally(completeAtlasLoad);
   } else {
@@ -4573,7 +4564,9 @@ function setBaseMap(key) {
     maxZoom: 19,
     opacity: 0.8,
     className: 'atlas-basemap-tile',
-    noWrap: true
+    noWrap: true,
+    updateWhenIdle: true,
+    keepBuffer: 2
   }).addTo(map);
 }
 

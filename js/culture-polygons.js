@@ -137,9 +137,6 @@
               syncPathCurrentColor(key);
             });
             layer.bindPopup(buildPopupHtml(key), { maxWidth: 320 });
-            setTimeout(function () {
-              syncPathCurrentColor(key);
-            }, 0);
           }
         });
         if (opts && typeof opts.getTimelineYear === 'function') {
@@ -151,6 +148,11 @@
         });
         if (opts.getMode) setMode(opts.getMode());
         else setMode(currentMode);
+        requestAnimationFrame(function () {
+          Object.keys(layersByKey).forEach(function (k) {
+            syncPathCurrentColor(k);
+          });
+        });
         return true;
       })
       .catch(function (e) {
