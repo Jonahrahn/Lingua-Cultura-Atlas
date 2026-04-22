@@ -1,0 +1,482 @@
+{
+  "qing_china": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_map_of_the_Qing_dynasty_%281820%29.svg/330px-Flag_map_of_the_Qing_dynasty_%281820%29.svg.png",
+    "imageCaption": "Flag map of the Qing dynasty (1820).svg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "maurya_empire": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ashoka_Maurya_Empire_250_BCE.jpg/330px-Ashoka_Maurya_Empire_250_BCE.jpg",
+    "imageCaption": "Ashoka Maurya Empire 250 BCE.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "achaemenid_persia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Achaemenid_Empire_500_BCE.jpg/330px-Achaemenid_Empire_500_BCE.jpg",
+    "imageCaption": "Achaemenid Empire 500 BCE.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "han_dynasty": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Xian_China_Terracotta-Army-Museum-04.jpg/330px-Xian_China_Terracotta-Army-Museum-04.jpg",
+    "imageCaption": "Xian China Terracotta-Army-Museum-04.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "tang_china": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Caparisoned_horse%2C_Shaanxi_or_Henan_province%2C_China%2C_Tang_dynasty%2C_675-750_AD%2C_earthenware_with_sancai_glaze_-_Portland_Art_Museum_-_Portland%2C_Oregon_-_DSC08396.jpg/330px-thumbnail.jpg",
+    "imageCaption": "Caparisoned horse, Shaanxi or Henan province, China, Tang dynasty, 675-750 AD, earthenware with sancai glaze - Portland  (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "abbasid_caliphate": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Samarra-spiral-Minaret-of-the-great-mosque-80f-1973.jpg",
+    "imageCaption": "Samarra-spiral-Minaret-of-the-great-mosque-80f-1973.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "mali_empire": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Berber_Trade_with_Timbuktu_1300s.jpg/330px-Berber_Trade_with_Timbuktu_1300s.jpg",
+    "imageCaption": "Berber Trade with Timbuktu 1300s.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "aztec_empire": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aztec_Sun_Stone_Replica_cropped.jpg/330px-Aztec_Sun_Stone_Replica_cropped.jpg",
+    "imageCaption": "Aztec Sun Stone Replica cropped.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "inca_empire": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG/330px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG",
+    "imageCaption": "Machu Picchu, Perú, 2015-07-30, DD 47.JPG (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "ottoman_peak": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Blue_Mosque_From_Aya_Sofya_2009.jpg/330px-Blue_Mosque_From_Aya_Sofya_2009.jpg",
+    "imageCaption": "Blue Mosque From Aya Sofya 2009.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "napoleonic_france": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Napoleon_I_of_France_by_Andrea_Appiani.jpg/330px-Napoleon_I_of_France_by_Andrea_Appiani.jpg",
+    "imageCaption": "Napoleon I of France by Andrea Appiani.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "spanish_americas": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mapa%2C_que_comprende_la_Frontera%2C_de_los_Dominios_del_Rey%2C_en_la_America_Septentrional.jpg/330px-Mapa%2C_que_comprende_la_Frontera%2C_de_los_Dominios_del_Rey%2C_en_la_America_Septentrional.jpg",
+    "imageCaption": "Mapa, que comprende la Frontera, de los Dominios del Rey, en la America Septentrional.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "corded_ware": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg/330px-020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg",
+    "imageCaption": "020210828 Vessels, Corded Ware Culture 5, Bell Beaker Culture 6, early neolithic artifacts in Silesia, Opole.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "bell_beaker": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg/330px-020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg",
+    "imageCaption": "020210828 Vessels, Corded Ware Culture 5, Bell Beaker Culture 6, early neolithic artifacts in Silesia, Opole.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "olmec_heartland": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olmec_Colossal_Head%2C_San_Lorenzo%2C_Veracruz%2C_1200-600_BC.jpg/330px-Olmec_Colossal_Head%2C_San_Lorenzo%2C_Veracruz%2C_1200-600_BC.jpg",
+    "imageCaption": "Olmec Colossal Head, San Lorenzo, Veracruz, 1200-600 BC.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "yayoi_japan": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bell_%28dotaku%29%2C_Yayoi_people%2C_Japan%2C_found_in_Yahagi%2C_Wakayama%2C_20-250_AD%2C_bronze_-_British_Museum_-_DSC01445.jpg/330px-Bell_%28dotaku%29%2C_Yayoi_people%2C_Japan%2C_found_in_Yahagi%2C_Wakayama%2C_20-250_AD%2C_bronze_-_British_Museum_-_DSC01445.jpg",
+    "imageCaption": "Bell (dotaku), Yayoi people, Japan, found in Yahagi, Wakayama, 20-250 AD, bronze - British Museum - DSC01445.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "chavin_horizon": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_detail_of_the_Raimondi_Stela.png/330px-A_detail_of_the_Raimondi_Stela.png",
+    "imageCaption": "A detail of the Raimondi Stela.png (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "maya_classic": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tikal_-_Temple_of_the_Great_Jaguar.jpg/330px-Tikal_-_Temple_of_the_Great_Jaguar.jpg",
+    "imageCaption": "Tikal - Temple of the Great Jaguar.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "lapita_ancestral_oceanic": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lapita_potsherd_from_Fiji_with_face_design.jpg/330px-Lapita_potsherd_from_Fiji_with_face_design.jpg",
+    "imageCaption": "Lapita potsherd from Fiji with face design.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "tang_dynasty": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Portraits_of_Famous_Men_-_Emperor_Tang_of_the_Shang_Dynasty.jpg/330px-Portraits_of_Famous_Men_-_Emperor_Tang_of_the_Shang_Dynasty.jpg",
+    "imageCaption": "Portraits of Famous Men - Emperor Tang of the Shang Dynasty.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "gupta_empire": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bodhisattva_Padmapani%2C_cave_1%2C_Ajanta%2C_India.jpg/330px-Bodhisattva_Padmapani%2C_cave_1%2C_Ajanta%2C_India.jpg",
+    "imageCaption": "Bodhisattva Padmapani, cave 1, Ajanta, India.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "umayyad_caliphate": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jerusalem-2013-Temple_Mount-Dome_of_the_Rock_%26_Chain_02.jpg/330px-Jerusalem-2013-Temple_Mount-Dome_of_the_Rock_%26_Chain_02.jpg",
+    "imageCaption": "Jerusalem-2013-Temple Mount-Dome of the Rock & Chain 02.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "mongol_empire_peak": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Empire_of_Genghis_Khan_at_his_death.png/330px-Empire_of_Genghis_Khan_at_his_death.png",
+    "imageCaption": "Mongol Empire extent (teaching map, Commons).",
+    "symbolism": "Khubilai and successor courts blend steppe, Chinese, and Iranian visual orders; the Ilkhanate sponsors Rashid al-Din’s world histories as imperial display."
+  },
+  "inca_tawantinsuyu": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sacsayhuaman_esplanade.jpg/330px-Sacsayhuaman_esplanade.jpg",
+    "imageCaption": "Sacsayhuaman esplanade.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "byzantine_empire_maurice": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef%2C_en_regardant_l%27occident_%28Hagia_Sophia_-_Ayasofya_Mosque_nave%29.jpg/330px-Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef%2C_en_regardant_l%27occident_%28Hagia_Sophia_-_Ayasofya_Mosque_nave%29.jpg",
+    "imageCaption": "Gaspare Fossati - Louis Haghe - Vue générale de la grande nef, en regardant l'occident (Hagia Sophia - Ayasofya Mosque n (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "carolingian_francia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Charlemagne_Agostino_Cornacchini_Vatican.jpg/330px-Charlemagne_Agostino_Cornacchini_Vatican.jpg",
+    "imageCaption": "Charlemagne Agostino Cornacchini Vatican.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "songhai_mali": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MaliDjenn%C3%A9Mosqu%C3%A9e.JPG/330px-MaliDjenn%C3%A9Mosqu%C3%A9e.JPG",
+    "imageCaption": "MaliDjennéMosquée.JPG (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "safavid_iran": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Frame_in_the_frame_of_Imam_Mosque_of_Isfahan.jpg/330px-Frame_in_the_frame_of_Imam_Mosque_of_Isfahan.jpg",
+    "imageCaption": "Frame in the frame of Imam Mosque of Isfahan.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "south_america_iberian_colonial": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg/330px-1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg",
+    "imageCaption": "1795 D'Anville Wall Map of South America - Geographicus - SouthAmerica-laruiewhittle-1794.jpg (Wikimedia).",
+    "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+  },
+  "mongol_empire": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Empire_of_Genghis_Khan_at_his_death.png/330px-Empire_of_Genghis_Khan_at_his_death.png",
+    "imageCaption": "Genghis Khan’s empire at his death, schematic map (Commons).",
+    "symbolism": "Mongol postal relays, princely war-feasts, and trans-Eurasian prestige objects; the khanal court scripts multiple languages in parallel chancelleries."
+  },
+  "viking_sphere": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Saga_Oseberg_Details_ropes_fore_bow_etc_Viking_ship_replica_2012_T%C3%B8nsberg_harbour_Norway_2019-08-16_04292.jpg/330px-Saga_Oseberg_Details_ropes_fore_bow_etc_Viking_ship_replica_2012_T%C3%B8nsberg_harbour_Norway_2019-08-16_04292.jpg",
+    "imageCaption": "Saga Oseberg Details ropes fore bow etc Viking ship replica 2012 Tønsberg harbour Norway 2019-08-16 04292.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "epigravettian_po_plain": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Venus_of_Willendorf_frontview.jpg/330px-Venus_of_Willendorf_frontview.jpg",
+    "imageCaption": "Venus of Willendorf frontview.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "ppna_levant_syria": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plastered_face_modeled_on_a_human_skull._From_Ain_Ghazal%2C_Jordan._Pre-Pottery_Neolithic_B%2C_c._6500_BCE._Jordan_Archaeological_Museum%2C_Amman.jpg/330px-Plastered_face_modeled_on_a_human_skull._From_Ain_Ghazal%2C_Jordan._Pre-Pottery_Neolithic_B%2C_c._6500_BCE._Jordan_Archaeological_Museum%2C_Amman.jpg",
+    "imageCaption": "Plastered face modeled on a human skull. From Ain Ghazal, Jordan. Pre-Pottery Neolithic B, c. 6500 BCE. Jordan Archaeolo (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "early_holocene_fertile_crescent": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg/330px-Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+    "imageCaption": "Fertile crescent Neolithic B circa 7500 BC.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "jomon_long_span": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jomon_Flame_Style_Pottery%2C_3000_BC.jpg/330px-Jomon_Flame_Style_Pottery%2C_3000_BC.jpg",
+    "imageCaption": "Jomon Flame Style Pottery, 3000 BC.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "yangshao_neolithic_cluster": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Neolithic_Yangshao_Stone_Pestle.jpg/330px-Neolithic_Yangshao_Stone_Pestle.jpg",
+    "imageCaption": "Neolithic Yangshao Stone Pestle.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "cucuteni_tripolye": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tripolye_pots.jpg/330px-Tripolye_pots.jpg",
+    "imageCaption": "Tripolye pots.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "vinča_tisza_horizon": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Vinca_figurine_1.jpg/330px-Vinca_figurine_1.jpg",
+    "imageCaption": "Vinca figurine 1.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "uruk_early_states": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Top_register%2C_Warka_Vase%2C_from_Uruk%2C_Iraq_Museum.jpg/330px-Top_register%2C_Warka_Vase%2C_from_Uruk%2C_Iraq_Museum.jpg",
+    "imageCaption": "Top register, Warka Vase, from Uruk, Iraq Museum.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "norte_chico_preceramic": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mayor_Pyramid_and_circular_enclosure._Caral%2C_Peru.jpg/330px-Mayor_Pyramid_and_circular_enclosure._Caral%2C_Peru.jpg",
+    "imageCaption": "Mayor Pyramid and circular enclosure. Caral, Peru.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "sintashta_arkaim_metallurgy": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC_2015_%28cropped%29.jpg/330px-%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC_2015_%28cropped%29.jpg",
+    "imageCaption": "Аркаим 2015 (cropped).jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "andronovo_horizon_federated": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Andronovo_culture.jpg/330px-Andronovo_culture.jpg",
+    "imageCaption": "Andronovo culture.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "mycenaean_palatial_mainland": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lion_Gate%2C_Mycenae%2C_201510.jpg/330px-Lion_Gate%2C_Mycenae%2C_201510.jpg",
+    "imageCaption": "Lion Gate, Mycenae, 201510.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "west_zhou_feng_hao_heartland": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zhou_dynasty_ritual_bell%2C_Rijksmuseum.jpg/330px-Zhou_dynasty_ritual_bell%2C_Rijksmuseum.jpg",
+    "imageCaption": "Zhou dynasty ritual bell, Rijksmuseum.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "warring_states_era_basin": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/China_Warring_States_Period.png/330px-China_Warring_States_Period.png",
+    "imageCaption": "Warring States China (teaching map, Commons).",
+    "symbolism": "Hundred schools debate, chariot inscriptions, and jade/ bronze burial theatre: state competition makes philosophy and arms races publicly visible."
+  },
+  "south_arabia_sheba_aksum_overlap": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Stela_aksum_formated.jpg",
+    "imageCaption": "Stela aksum formated.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "bactria_greeks_alexandria_central_asia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gold_coin_of_Diodotos_I_of_Bactria.jpg/330px-Gold_coin_of_Diodotos_I_of_Bactria.jpg",
+    "imageCaption": "Gold coin of Diodotos I of Bactria.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "pitted_ware_south_scandinavia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nordisk_arkeologi._Gropkeramik%2C_boplatsfynd_fr%C3%A5n_Grammahagen_i_Mj%C3%A4llbysocken_i_Blekinge..JPG/330px-Nordisk_arkeologi._Gropkeramik%2C_boplatsfynd_fr%C3%A5n_Grammahagen_i_Mj%C3%A4llbysocken_i_Blekinge..JPG",
+    "imageCaption": "Gropkeramik (pitted ware) finds, Sweden (Nordisk familjebok, Commons).",
+    "symbolism": "Coastal pit-settlements, seal hunting, and ceramic temper pits: a northern Neolithic with distinct vessel grammar vs Corded and Funnel beakers."
+  },
+  "pacific_marginal_ledger_remote_oceania": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg/330px-Moai_Rano_raraku.jpg",
+    "imageCaption": "Moai Rano raraku.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "colonial_brazil_capitanias": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Novo_mapa_Capitanias.jpg/330px-Novo_mapa_Capitanias.jpg",
+    "imageCaption": "Novo mapa Capitanias.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "viceroyalty_rio_de_la_plata": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg/330px-1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg",
+    "imageCaption": "1795 D'Anville Wall Map of South America - Geographicus - SouthAmerica-laruiewhittle-1794.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "tiwanaku_wari_horizon": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bolivia_-_Gate_of_the_Sun_detail_-_Tiwanaku_or_Tiahuanaco_02.jpg/330px-Bolivia_-_Gate_of_the_Sun_detail_-_Tiwanaku_or_Tiahuanaco_02.jpg",
+    "imageCaption": "Bolivia - Gate of the Sun detail - Tiwanaku or Tiahuanaco 02.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "amazon_earthwork_cultures": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fazenda_Colorada.jpg/330px-Fazenda_Colorada.jpg",
+    "imageCaption": "Fazenda Colorada.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "eastern_siberia_upper_paleolithic_sunghir": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twin_burial_model_-_Sungir_-_Vladimir_Palaty.jpg/330px-Twin_burial_model_-_Sungir_-_Vladimir_Palaty.jpg",
+    "imageCaption": "Twin burial model - Sungir - Vladimir Palaty.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "atlas_mountains_iberomaurusian_iberic": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tassili_-_Bulls_%28rock_engraving%29.jpg/330px-Tassili_-_Bulls_%28rock_engraving%29.jpg",
+    "imageCaption": "Rock engraving, Tassili n’Ajjer (Sahara, Commons).",
+    "symbolism": "Backed blades, ostrich-eggshell beads, and open-air art in arid refugia: Maghrebian technocomplexes tie mobility to water and view-sheds."
+  },
+  "northeast_africa_aterian_msa": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pointes_de_fl%C3%A8ches_sahariennes_%28Ouargla%29.jpg/330px-Pointes_de_fl%C3%A8ches_sahariennes_%28Ouargla%29.jpg",
+    "imageCaption": "Pointes de flèches sahariennes (Ouargla).jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "southern_africa_later_stone_age_micro": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Behavioral_modernity_in_the_Middle_Stone_Age.jpg/330px-Behavioral_modernity_in_the_Middle_Stone_Age.jpg",
+    "imageCaption": "MSA assemblage illustration (teaching, Commons).",
+    "symbolism": "Howiesons Poort, Still Bay, and later microliths; engraved ochre, shell jewellery, and coastal adaptation as negotiable ‘modern’ signals."
+  },
+  "doggerland_paleocoast_pleistocene": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Doggerland_10%2C000_BP.jpg/330px-Doggerland_10%2C000_BP.jpg",
+    "imageCaption": "Doggerland 10,000 BP.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "zanzibar_kenya_rift_epipaleolithic": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Olorgesailiefouilles%281%29.jpg/330px-Olorgesailiefouilles%281%29.jpg",
+    "imageCaption": "Olorgesailiefouilles(1).jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "ppn_b_levant_anatolia_west": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%C3%87atalh%C3%B6y%C3%BCk_2006_IMG_2234_%28207473841%29.jpg/330px-%C3%87atalh%C3%B6y%C3%BCk_2006_IMG_2234_%28207473841%29.jpg",
+    "imageCaption": "Çatalhöyük 2006 IMG 2234 (207473841).jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "halaf_mesopotamia_northern": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Painted_pottery_jar._From_Yarim_Tepe%2C_Iraq._Halaf_culture%2C_5th_millennium_BCE._Iraq_Museum%2C_Baghdad.jpg/330px-Painted_pottery_jar._From_Yarim_Tepe%2C_Iraq._Halaf_culture%2C_5th_millennium_BCE._Iraq_Museum%2C_Baghdad.jpg",
+    "imageCaption": "Painted pottery jar. From Yarim Tepe, Iraq. Halaf culture, 5th millennium BCE. Iraq Museum, Baghdad.jpg (Wikimedia).",
+    "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+  },
+  "uruk_sumer_urban_heartland": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Uruk_period_administrative_tablet.jpg",
+    "imageCaption": "Uruk IV administrative tablet (Commons).",
+    "symbolism": "Sealed clay envelopes, bevel-rim bowls, and temple-led redistribution: early cuneiform is accounting theatre before belles lettres."
+  },
+  "viking_scandinavia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Osebergskipet_2016.jpg/330px-Osebergskipet_2016.jpg",
+    "imageCaption": "Oseberg ship, Norway (Commons).",
+    "symbolism": "Oseberg textiles, stave churches, and rune-stone public memory: coastal prestige loops tie fjords to the Dnieper and Volga."
+  },
+  "epipaleolithic_zagros": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Excavation_at_Paleolithic_site_of_Bawa_Yawan%2C_Zagros%2C_Iran_2017.jpg/330px-Excavation_at_Paleolithic_site_of_Bawa_Yawan%2C_Zagros%2C_Iran_2017.jpg",
+    "imageCaption": "Zagros Epipalaeolithic excavation, Bawa Yawan (Commons).",
+    "symbolism": "Caves and highland forager gardens lead toward Neolithic pack animals in the Fertile Crescent’s eastern arc—local sequences, not one wave."
+  },
+  "lgm_refugium_sw_europe": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Map_of_West_Europe_during_Last_Glacial_Maximum_1.svg/330px-Map_of_West_Europe_during_Last_Glacial_Maximum_1.svg.png",
+    "imageCaption": "Western Europe in the LGM, schematic (Commons).",
+    "symbolism": "Mammoth-steppe, river corridors, and refugial art provinces: recolonisation routes structure later Gravettian and Magdalenian geographies."
+  },
+  "mehrgarh_precursor": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mehrgarh_ruins.jpg/330px-Mehrgarh_ruins.jpg",
+    "imageCaption": "Mehrgarh mounds, Balochistan (Commons).",
+    "symbolism": "Cereal harvesting, bucrania, and long-distance bead routes prefigure Indus chalcolithic—highland border of the 'Greater Indus' world."
+  },
+  "yamnaya_pontic_caspian_herding": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Yamnaya_culture.jpg/330px-Yamnaya_culture.jpg",
+    "imageCaption": "Yamnaya burial, kurgan (Commons).",
+    "symbolism": "Cattle, wagons, and kurgan stelae broadcast mobile pastoral charisma; male-focused grave kits seed later steppe ideologies in archaeological debate."
+  },
+  "old_kingdom_egypt": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/330px-All_Gizah_Pyramids.jpg",
+    "imageCaption": "Giza pyramid field (Commons).",
+    "symbolism": "Colossal cut stone, royal tomb texts, and solar cult: pyramids as state theology cast in engineering."
+  },
+  "hellenistic_world": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pergamonmuseum_-_Antikensammlung_-_Pergamonaltar_20.jpg/330px-Pergamonmuseum_-_Antikensammlung_-_Pergamonaltar_20.jpg",
+    "imageCaption": "Pergamon Altar, Berlin (Commons).",
+    "symbolism": "Gigantomachy reliefs, ruler cult, and public libraries: kingship framed as saved cosmology in marble."
+  },
+  "roman_empire_117": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Trajan%27s_Column.jpg/330px-Trajan%27s_Column.jpg",
+    "imageCaption": "Trajan’s Column, Rome (Commons).",
+    "symbolism": "Spiral frieze, triumphal ludi, and civic basilicas: law and war narrated in stone around the capitol’s ritual calendar."
+  },
+  "gupta_india": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/330px-Ajanta_%2863%29.jpg",
+    "imageCaption": "Ajanta cave painting (Commons).",
+    "symbolism": "Buddha mandalas, Sanskrit court drama, and temple maths: a classical kosmos painted and patronised under rajas and sanghas."
+  },
+  "british_empire_max": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Empire_1897.jpg/330px-British_Empire_1897.jpg",
+    "imageCaption": "British Empire, c. 1897 (teaching map, Commons).",
+    "symbolism": "Crimson atlases, exhibitionary machinery, and oceanic telegraph: empire rendered as a navigable, colour-coded system."
+  },
+  "mississippian": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Monks_Mound_in_July.JPG/330px-Monks_Mound_in_July.JPG",
+    "imageCaption": "Monks Mound, Cahokia (Commons).",
+    "symbolism": "Earthwork capitals, moon-calibrated maize, and copper-covered elites: a riverine world without Eurasian draft animals."
+  },
+  "mississippian_cahokia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Monks_Mound_in_July.JPG/330px-Monks_Mound_in_July.JPG",
+    "imageCaption": "Cahokia, Monks Mound (Commons).",
+    "symbolism": "Civic-ceremonial core of the Mississippian world: mounds, plazas, and ritually charged shell/copper that encode ranked alliance."
+  },
+  "sahul_pleistocene_holocene": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/WillandraLakesRegion.JPG/330px-WillandraLakesRegion.JPG",
+    "imageCaption": "Willandra lakes region, NSW (UNESCO, Commons).",
+    "symbolism": "Lakeshore cremations, megafauna overkill debates, and arid-land refugia: the continent’s first millennia as contested science."
+  },
+  "clovis_plano_sphere": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Folsom_point.png",
+    "imageCaption": "Folsom projectile point, illustration (Commons).",
+    "symbolism": "Fluted points, kill sites, and megafaunal extinctions: Paleoindian time depth without Old World neolithic sheen."
+  },
+  "parthian_empire_iran_mesopotamia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Parthian_Empire.png/330px-Parthian_Empire.png",
+    "imageCaption": "Parthian realm, teaching map (Commons).",
+    "symbolism": "Equestrian lords, rock reliefs, and a silk-road pluralism: Iranian kingship in dialogue with Hellenic façades and Asian trade cities."
+  },
+  "kushan_empire_silk_road": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kushanmap.jpg/330px-Kushanmap.jpg",
+    "imageCaption": "Kushan polity, schematic (Commons).",
+    "symbolism": "Buddha coinage, Greco-Roman atelier styles, and Gandharan stūpa: steppe cavalry + Indian urbanisation as visible dharma display."
+  },
+  "scythian_pontic_steppe_horizon": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scythian_gold_stag.jpg/330px-Scythian_gold_stag.jpg",
+    "imageCaption": "Scythian gold stag plaque (Commons).",
+    "symbolism": "Kurgan burials, animal-style metalwork, and long-range relay exchange: Ponto-Caspian prestige without a single imperial capital."
+  },
+  "hopewell_earthwork_ohio_valley": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Great_Serpent_Mound.jpg/330px-Great_Serpent_Mound.jpg",
+    "imageCaption": "Great Serpent Mound, Ohio (Commons).",
+    "symbolism": "Riverside earthworks, mica and copper from afar, and long-distance ‘interaction’ without Mesoamerican state forms."
+  },
+  "nok_terraced_plateau_nigeria": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Africa_Nok_Head_Kimbell.jpg/330px-Africa_Nok_Head_Kimbell.jpg",
+    "imageCaption": "Nok terracotta head (Kimbell; Commons).",
+    "symbolism": "Lifesize heads, iron smelting debate, and early West African figuration—symbolic power before the Sahel’s later empires."
+  },
+  "ban_chiang_prehistoric_thailand": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ban_Chiang_excavations.jpg/330px-Ban_Chiang_excavations.jpg",
+    "imageCaption": "Ban Chiang excavations (Commons).",
+    "symbolism": "Painted pottery, early metallurgy, and mortuary rites: a mainland Southeast Asian narrative distinct from the Yellow River only."
+  },
+  "maritime_se_asia_srivijaya_era": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Borobudur_1.jpg/330px-Borobudur_1.jpg",
+    "imageCaption": "Borobudur, Java (Commons).",
+    "symbolism": "Buddha mandala architecture, strait emporia, and Sanskrit titles on Sumatra and Java: thalassocracy with temple receipts."
+  },
+  "lanna_temple_states_golden_mandala": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wat_Phra_That_Doi_Suthep_1.jpg/330px-Wat_Phra_That_Doi_Suthep_1.jpg",
+    "imageCaption": "Wat Phra That Doi Suthep, Chiang Mai (Commons).",
+    "symbolism": "Chedi gold umbrellas, dhamma-sāsana inscriptions, and highland vassalage: a Tai-Buddhist visual order alongside Burmese and Khmer worlds."
+  },
+  "swahili_coast_stone_towns": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Great_Mosque_Kilwa_Kisiwani.jpg/330px-Great_Mosque_Kilwa_Kisiwani.jpg",
+    "imageCaption": "Great Mosque, Kilwa Kisiwani (Commons).",
+    "symbolism": "Coral rag mosques, merchant chronicles, and monsoon scripts: the coast as a bilingual Persian–Arabic–Bantu public sphere."
+  },
+  "celtic_oppida_west_central_europe": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bibracte_Porte_Rebout.jpg/330px-Bibracte_Porte_Rebout.jpg",
+    "imageCaption": "Bibracte oppidum gate, Morvan (Commons).",
+    "symbolism": "Hill-fort renaissance, late La Tène art, and Roman-facing diplomacy: ‘Celtic’ as urbanising Iron Age, not a romantic stereotype only."
+  },
+  "seleucid_hellenistic_west_asia": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Seleucid_Empire_%28flat_map%29_%28green%29.png/330px-Seleucid_Empire_%28flat_map%29_%28green%29.png",
+    "imageCaption": "Seleucid realm, teaching map (Commons).",
+    "symbolism": "Basilikoi, refounded poleis, and Iranian satrapies under Greek royal titulature: a patchwork of cities and camps, not a Roman census map."
+  },
+  "sasanian_empire_iran_iraq": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Southwestern_part_of_the_Sasanian_Empire.jpg/330px-Southwestern_part_of_the_Sasanian_Empire.jpg",
+    "imageCaption": "Sasanian southwest, schematic (Commons).",
+    "symbolism": "Ātashkadeh courts, Shapurian rock investitures, and Middle Persian epigraphy: Iranshahr as cosmo-religious theatre on Rome’s eastern rim."
+  },
+  "neo_assyrian_heartland": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lamassu_%28Winged_Bull%29_of_Throne_Room_of_Palace_of_Sargon_II%2C_Khorsabad%2C_Assyria_%2828297494975%29.jpg/330px-Lamassu_%28Winged_Bull%29_of_Throne_Room_of_Palace_of_Sargon_II%2C_Khorsabad%2C_Assyria_%2828297494975%29.jpg",
+    "imageCaption": "Lamassu, Khorsabad (Commons).",
+    "symbolism": "Lamassu, deportation inscriptions, and state workshops: terror-and-gift as legible power along the Tigris corridor."
+  },
+  "moche_north_peru_ceramic": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Portrait_Vessel_of_a_Ruler%2C_100_BC_-_500_AD%2C_Moche%2C_north_coast_of_Peru%2C_ceramic_and_pigment_-_Art_Institute_of_Chicago_-_DSC00321.JPG/330px-Portrait_Vessel_of_a_Ruler%2C_100_BC_-_500_AD%2C_Moche%2C_north_coast_of_Peru%2C_ceramic_and_pigment_-_Art_Institute_of_Chicago_-_DSC00321.JPG",
+    "imageCaption": "Moche portrait vessel (Commons / Art Institute of Chicago).",
+    "symbolism": "Stirrup-spout pots, regalia in clay, and Andean water cult debate: a coastal theocracy in ceramic, not a single imperial grid."
+  },
+  "nazca_south_coast_culture": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_54.JPG/330px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_54.JPG",
+    "imageCaption": "Nazca geoglyph lines (Commons).",
+    "symbolism": "Pampa geoglyphs, qanat-linked ritual fields, and Paracas forebears: arid-surface processions and water politics as public geometry."
+  },
+  "adena_mound_ohio_valley": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grave_Creek_Mound%2C_Moundsville%2C_West_Virginia%2C_USA%2C_2_Nov_2019.jpg/330px-Grave_Creek_Mound%2C_Moundsville%2C_West_Virginia%2C_USA%2C_2_Nov_2019.jpg",
+    "imageCaption": "Grave Creek Mound, West Virginia (Commons).",
+    "symbolism": "Conical mounds, copper celts, and log-tomb inhumations: Ohio Valley mortuary bling before the full Hopewell exchange surge."
+  },
+  "hunnic_eurasian_steppe_era": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/450_roman-hunnic-empire_1764x1116.jpg/330px-450_roman-hunnic-empire_1764x1116.jpg",
+    "imageCaption": "Roman and Hunnic zones, c. 450, schematic (Commons).",
+    "symbolism": "Saddle diplomacy, gold diadems, and Roman subventions: steppe confederation politics, not a stable taxation boundary."
+  },
+  "phoenician_levantine_maritime": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Phoenician_trade_routes_%28eng%29.svg/330px-Phoenician_trade_routes_%28eng%29.svg.png",
+    "imageCaption": "Phoenician trade routes, teaching map (Commons).",
+    "symbolism": "Tyrian purple, oared commerce, and pilot alphabets: a city-state lattice of harbours, not a unified inland empire."
+  },
+  "bai_nanzhao_southwest_china": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Three_Pagodas%2C_Dali_-_panoramio.jpg/330px-Three_Pagodas%2C_Dali_-_panoramio.jpg",
+    "imageCaption": "Three Pagodas, Dali, Yunnan (Commons).",
+    "symbolism": "Buddha-bridge stūpa rows, Dali inscriptions, and Yunnan–Tibetan–Chinese overlap: a highland Tai-Bai corridor, not a Han prefecture read."
+  },
+  "east_polynesian_voyaging_horizon": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ahu_Tongariki_cropped.jpg/330px-Ahu_Tongariki_cropped.jpg",
+    "imageCaption": "Ahu Tongariki, Rapa Nui (Commons).",
+    "symbolism": "Ahu platforms, star-compass seafaring, and tapu lineage: East Polynesian politics as re-established sacred geography, not a European island chart."
+  }
+}

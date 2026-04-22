@@ -1,0 +1,10 @@
+{
+  "name": "Lingua Cultura Atlas",
+  "short_name": "Atlas",
+  "description": "Interactive atlas of language families, world cultures, and historical territories—with citations and time control.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#0a0e17"
+}

@@ -1,0 +1,5746 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temporal Territories (protohistory, archaeology, linguistics — illustrative)",
+  "description": "Time-bounded schematic extents: deep prehistory, protohistory, state formation, and teaching linguistics. Not cadastral boundaries; each feature has caveats. Append via tools/append-protohistory-territories.py",
+  "license": "CC0-1.0",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "qing_china",
+        "name": "Qin unification (approx.)",
+        "domain": "history",
+        "startYear": -221,
+        "endYear": -206,
+        "description": "Very coarse box over the Qin core and conquered Chinese states. Illustrative only.",
+        "sources": "Cambridge History of China; standard chronology (approximate extent).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Qin_dynasty",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_map_of_the_Qing_dynasty_%281820%29.svg/330px-Flag_map_of_the_Qing_dynasty_%281820%29.svg.png",
+        "imageCaption": "Flag map of the Qing dynasty (1820).svg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104,
+              32
+            ],
+            [
+              114,
+              32
+            ],
+            [
+              114,
+              40
+            ],
+            [
+              104,
+              40
+            ],
+            [
+              104,
+              32
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "old_kingdom_egypt",
+        "name": "Old Kingdom Egypt (approx.)",
+        "domain": "history",
+        "startYear": -2686,
+        "endYear": -2181,
+        "description": "Nile valley corridor — highly simplified polygon.",
+        "sources": "Chronology from Oxford History of Ancient Egypt; geometry is schematic.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/330px-All_Gizah_Pyramids.jpg",
+        "imageCaption": "Giza pyramid field (Commons).",
+        "symbolism": "Colossal cut stone, royal tomb texts, and solar cult: pyramids as state theology cast in engineering."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              22
+            ],
+            [
+              33,
+              22
+            ],
+            [
+              33,
+              31
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              30,
+              22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "maurya_empire",
+        "name": "Maurya Empire (approx. peak)",
+        "domain": "history",
+        "startYear": -322,
+        "endYear": -180,
+        "description": "Simplified northern Indian subcontinent extent.",
+        "sources": "Romila Thapar, Asoka and the Decline of the Mauryas (extent generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Maurya_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ashoka_Maurya_Empire_250_BCE.jpg/330px-Ashoka_Maurya_Empire_250_BCE.jpg",
+        "imageCaption": "Ashoka Maurya Empire 250 BCE.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68,
+              8
+            ],
+            [
+              92,
+              8
+            ],
+            [
+              92,
+              30
+            ],
+            [
+              68,
+              30
+            ],
+            [
+              68,
+              8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "achaemenid_persia",
+        "name": "Achaemenid Empire (approx.)",
+        "domain": "history",
+        "startYear": -550,
+        "endYear": -330,
+        "description": "Large schematic rectangle from Anatolia through Iran — not a precise satrapy map.",
+        "sources": "Pierre Briant, From Cyrus to Alexander; schematic simplification.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Achaemenid_Empire_500_BCE.jpg/330px-Achaemenid_Empire_500_BCE.jpg",
+        "imageCaption": "Achaemenid Empire 500 BCE.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              25
+            ],
+            [
+              63,
+              25
+            ],
+            [
+              63,
+              42
+            ],
+            [
+              44,
+              42
+            ],
+            [
+              44,
+              25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hellenistic_world",
+        "name": "Hellenistic kingdoms (combined schematic)",
+        "domain": "history",
+        "startYear": -323,
+        "endYear": -31,
+        "description": "Eastern Mediterranean / West Asia simplified box; multiple polities merged for demo.",
+        "sources": "F.W. Walbank et al., Cambridge Ancient History VII (generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pergamonmuseum_-_Antikensammlung_-_Pergamonaltar_20.jpg/330px-Pergamonmuseum_-_Antikensammlung_-_Pergamonaltar_20.jpg",
+        "imageCaption": "Pergamon Altar, Berlin (Commons).",
+        "symbolism": "Gigantomachy reliefs, ruler cult, and public libraries: kingship framed as saved cosmology in marble."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              27
+            ],
+            [
+              40,
+              27
+            ],
+            [
+              40,
+              42
+            ],
+            [
+              20,
+              42
+            ],
+            [
+              20,
+              27
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "han_dynasty",
+        "name": "Han dynasty China (approx.)",
+        "domain": "history",
+        "startYear": -202,
+        "endYear": 220,
+        "description": "Schematic eastern China extent excluding Tarim for clarity.",
+        "sources": "Hans Bielenstein, Cambridge History of China Vol. 1 (approximate outline).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Xian_China_Terracotta-Army-Museum-04.jpg/330px-Xian_China_Terracotta-Army-Museum-04.jpg",
+        "imageCaption": "Xian China Terracotta-Army-Museum-04.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103,
+              20
+            ],
+            [
+              122,
+              20
+            ],
+            [
+              122,
+              42
+            ],
+            [
+              103,
+              42
+            ],
+            [
+              103,
+              20
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "roman_empire_117",
+        "name": "Roman Empire (Trajanic peak, schematic)",
+        "domain": "history",
+        "startYear": 98,
+        "endYear": 192,
+        "description": "Two rough boxes for western and eastern Mediterranean spheres — not provincial boundaries.",
+        "sources": "Tacitus / CAH XI; commonly mapped maximum extent around 117 CE (simplified).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Trajan%27s_Column.jpg/330px-Trajan%27s_Column.jpg",
+        "imageCaption": "Trajan’s Column, Rome (Commons).",
+        "symbolism": "Spiral frieze, triumphal ludi, and civic basilicas: law and war narrated in stone around the capitol’s ritual calendar."
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -8,
+                36
+              ],
+              [
+                15,
+                36
+              ],
+              [
+                15,
+                47
+              ],
+              [
+                -8,
+                47
+              ],
+              [
+                -8,
+                36
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                15,
+                30
+              ],
+              [
+                42,
+                30
+              ],
+              [
+                42,
+                48
+              ],
+              [
+                15,
+                48
+              ],
+              [
+                15,
+                30
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gupta_india",
+        "name": "Gupta Empire (approx.)",
+        "domain": "history",
+        "startYear": 320,
+        "endYear": 550,
+        "description": "North Indian heartland generalized.",
+        "sources": "Romila Thapar, Early India (extent approximate).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/330px-Ajanta_%2863%29.jpg",
+        "imageCaption": "Ajanta cave painting (Commons).",
+        "symbolism": "Buddha mandalas, Sanskrit court drama, and temple maths: a classical kosmos painted and patronised under rajas and sanghas."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74,
+              8
+            ],
+            [
+              88,
+              8
+            ],
+            [
+              88,
+              28
+            ],
+            [
+              74,
+              28
+            ],
+            [
+              74,
+              8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tang_china",
+        "name": "Tang dynasty (approx. core)",
+        "domain": "history",
+        "startYear": 618,
+        "endYear": 907,
+        "description": "Schematic eastern China; frontier belts omitted.",
+        "sources": "Cambridge History of China Vol. 3 (approximate).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Caparisoned_horse%2C_Shaanxi_or_Henan_province%2C_China%2C_Tang_dynasty%2C_675-750_AD%2C_earthenware_with_sancai_glaze_-_Portland_Art_Museum_-_Portland%2C_Oregon_-_DSC08396.jpg/330px-thumbnail.jpg",
+        "imageCaption": "Caparisoned horse, Shaanxi or Henan province, China, Tang dynasty, 675-750 AD, earthenware with sancai glaze - Portland  (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              18
+            ],
+            [
+              122,
+              18
+            ],
+            [
+              122,
+              40
+            ],
+            [
+              98,
+              40
+            ],
+            [
+              98,
+              18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "abbasid_caliphate",
+        "name": "Abbasid Caliphate (approx. high period)",
+        "domain": "history",
+        "startYear": 750,
+        "endYear": 950,
+        "description": "Schematic rectangle — actual control varied by region and decade.",
+        "sources": "Hugh Kennedy, Caliphate; simplified for demo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Samarra-spiral-Minaret-of-the-great-mosque-80f-1973.jpg",
+        "imageCaption": "Samarra-spiral-Minaret-of-the-great-mosque-80f-1973.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              12
+            ],
+            [
+              65,
+              12
+            ],
+            [
+              65,
+              40
+            ],
+            [
+              34,
+              40
+            ],
+            [
+              34,
+              12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mongol_empire",
+        "name": "Mongol Empire (maximum schematic)",
+        "domain": "history",
+        "startYear": 1206,
+        "endYear": 1368,
+        "description": "Single vast box; real borders were fragmented khanates.",
+        "sources": "Morgan, The Mongols; extent greatly simplified.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Empire_of_Genghis_Khan_at_his_death.png/330px-Empire_of_Genghis_Khan_at_his_death.png",
+        "imageCaption": "Genghis Khan’s empire at his death, schematic map (Commons).",
+        "symbolism": "Mongol postal relays, princely war-feasts, and trans-Eurasian prestige objects; the khanal court scripts multiple languages in parallel chancelleries."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75,
+              40
+            ],
+            [
+              125,
+              40
+            ],
+            [
+              125,
+              55
+            ],
+            [
+              75,
+              55
+            ],
+            [
+              75,
+              40
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mali_empire",
+        "name": "Mali Empire (approx.)",
+        "domain": "history",
+        "startYear": 1235,
+        "endYear": 1600,
+        "description": "West Sahel schematic — river-based polity not a crisp polygon.",
+        "sources": "Niane, Sundiata et al.; outline generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Berber_Trade_with_Timbuktu_1300s.jpg/330px-Berber_Trade_with_Timbuktu_1300s.jpg",
+        "imageCaption": "Berber Trade with Timbuktu 1300s.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -12,
+              10
+            ],
+            [
+              5,
+              10
+            ],
+            [
+              5,
+              20
+            ],
+            [
+              -12,
+              20
+            ],
+            [
+              -12,
+              10
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "aztec_empire",
+        "name": "Aztec Empire / Triple Alliance (approx.)",
+        "domain": "history",
+        "startYear": 1428,
+        "endYear": 1521,
+        "description": "Central Mexican highlands — tiny box for demo scale.",
+        "sources": "Carrasco, The Aztecs; extent schematic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aztec_Sun_Stone_Replica_cropped.jpg/330px-Aztec_Sun_Stone_Replica_cropped.jpg",
+        "imageCaption": "Aztec Sun Stone Replica cropped.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -101,
+              16
+            ],
+            [
+              -95,
+              16
+            ],
+            [
+              -95,
+              21
+            ],
+            [
+              -101,
+              21
+            ],
+            [
+              -101,
+              16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "inca_empire",
+        "name": "Inka Empire (approx.)",
+        "domain": "history",
+        "startYear": 1438,
+        "endYear": 1533,
+        "description": "Andean cordillera generalized box.",
+        "sources": "D'Altroy, The Incas; simplified geometry.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG/330px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG",
+        "imageCaption": "Machu Picchu, Perú, 2015-07-30, DD 47.JPG (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79,
+              -18
+            ],
+            [
+              -68,
+              -18
+            ],
+            [
+              -68,
+              -1
+            ],
+            [
+              -79,
+              -1
+            ],
+            [
+              -79,
+              -18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ottoman_peak",
+        "name": "Ottoman Empire (approx. Sulaymaniye-era)",
+        "domain": "history",
+        "startYear": 1520,
+        "endYear": 1683,
+        "description": "Anatolia to Egypt box — omits detailed Balkan and North African frontiers.",
+        "sources": "İnalcık, Ottoman Empire; schematic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Blue_Mosque_From_Aya_Sofya_2009.jpg/330px-Blue_Mosque_From_Aya_Sofya_2009.jpg",
+        "imageCaption": "Blue Mosque From Aya Sofya 2009.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              32
+            ],
+            [
+              48,
+              32
+            ],
+            [
+              48,
+              48
+            ],
+            [
+              12,
+              48
+            ],
+            [
+              12,
+              32
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "napoleonic_france",
+        "name": "First French Empire (European core, schematic)",
+        "domain": "history",
+        "startYear": 1804,
+        "endYear": 1815,
+        "description": "Very coarse western/central Europe box; not 1812 detail.",
+        "sources": "Zamoyski, Napoleon; outline generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Napoleon_I_of_France_by_Andrea_Appiani.jpg/330px-Napoleon_I_of_France_by_Andrea_Appiani.jpg",
+        "imageCaption": "Napoleon I of France by Andrea Appiani.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              41
+            ],
+            [
+              16,
+              41
+            ],
+            [
+              16,
+              52
+            ],
+            [
+              -5,
+              52
+            ],
+            [
+              -5,
+              41
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "british_empire_max",
+        "name": "British Empire (approx. territorial zenith)",
+        "domain": "history",
+        "startYear": 1913,
+        "endYear": 1922,
+        "description": "Three coarse boxes (subcontinent, Australia, Canada) — excludes many smaller holdings.",
+        "sources": "Ferguson, Empire; colonial cartography summarized schematically.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Empire_1897.jpg/330px-British_Empire_1897.jpg",
+        "imageCaption": "British Empire, c. 1897 (teaching map, Commons).",
+        "symbolism": "Crimson atlases, exhibitionary machinery, and oceanic telegraph: empire rendered as a navigable, colour-coded system."
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                [
+                  68,
+                  5
+                ],
+                [
+                  95,
+                  5
+                ],
+                [
+                  95,
+                  30
+                ],
+                [
+                  68,
+                  30
+                ],
+                [
+                  68,
+                  5
+                ]
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                [
+                  113,
+                  -44
+                ],
+                [
+                  154,
+                  -44
+                ],
+                [
+                  154,
+                  -10
+                ],
+                [
+                  113,
+                  -10
+                ],
+                [
+                  113,
+                  -44
+                ]
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                [
+                  -141,
+                  48
+                ],
+                [
+                  -52,
+                  48
+                ],
+                [
+                  -52,
+                  70
+                ],
+                [
+                  -141,
+                  70
+                ],
+                [
+                  -141,
+                  48
+                ]
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "spanish_americas",
+        "name": "Spanish American viceroyalties (schematic)",
+        "domain": "history",
+        "startYear": 1550,
+        "endYear": 1700,
+        "description": "Mexico–Peru rough boxes — not audiencia boundaries.",
+        "sources": "Kamen, Empire; generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mapa%2C_que_comprende_la_Frontera%2C_de_los_Dominios_del_Rey%2C_en_la_America_Septentrional.jpg/330px-Mapa%2C_que_comprende_la_Frontera%2C_de_los_Dominios_del_Rey%2C_en_la_America_Septentrional.jpg",
+        "imageCaption": "Mapa, que comprende la Frontera, de los Dominios del Rey, en la America Septentrional.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -115,
+                14
+              ],
+              [
+                -75,
+                14
+              ],
+              [
+                -75,
+                35
+              ],
+              [
+                -115,
+                35
+              ],
+              [
+                -115,
+                14
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -80,
+                -24
+              ],
+              [
+                -58,
+                -24
+              ],
+              [
+                -58,
+                -6
+              ],
+              [
+                -80,
+                -6
+              ],
+              [
+                -80,
+                -24
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "viking_sphere",
+        "name": "Norse activity (very schematic)",
+        "domain": "history",
+        "startYear": 793,
+        "endYear": 1066,
+        "description": "Northern seas and Atlantic rims — not a unified realm.",
+        "sources": "Haywood, Penguin Historical Atlas of the Vikings (concept only).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Saga_Oseberg_Details_ropes_fore_bow_etc_Viking_ship_replica_2012_T%C3%B8nsberg_harbour_Norway_2019-08-16_04292.jpg/330px-Saga_Oseberg_Details_ropes_fore_bow_etc_Viking_ship_replica_2012_T%C3%B8nsberg_harbour_Norway_2019-08-16_04292.jpg",
+        "imageCaption": "Saga Oseberg Details ropes fore bow etc Viking ship replica 2012 Tønsberg harbour Norway 2019-08-16 04292.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -12,
+              50
+            ],
+            [
+              25,
+              50
+            ],
+            [
+              25,
+              70
+            ],
+            [
+              -12,
+              70
+            ],
+            [
+              -12,
+              50
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "indus_civilization",
+        "name": "Indus Valley / Harappan sphere (approx.)",
+        "domain": "archaeology",
+        "startYear": -3300,
+        "endYear": -1300,
+        "description": "Mature Harappan cultural region — edges debated by scholars.",
+        "sources": "Posschl, The Indus Civilization (distribution generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png/330px-Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png",
+        "imageCaption": "Mature Harappan extent (simplified).",
+        "symbolism": "Unicorn seals, weights, and civic platforms; undeciphered script on seals—iconic administration and trade identity, not a temple empire reading."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              66,
+              23
+            ],
+            [
+              73,
+              23
+            ],
+            [
+              73,
+              30
+            ],
+            [
+              66,
+              30
+            ],
+            [
+              66,
+              23
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "corded_ware",
+        "name": "Corded Ware horizon (very schematic)",
+        "domain": "archaeology",
+        "startYear": -2900,
+        "endYear": -2350,
+        "description": "North European plain — continuum, not a polity.",
+        "sources": "Furholt, 'Corded Ware' in European Journal of Archaeology (extent illustrative).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg/330px-020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg",
+        "imageCaption": "020210828 Vessels, Corded Ware Culture 5, Bell Beaker Culture 6, early neolithic artifacts in Silesia, Opole.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              50
+            ],
+            [
+              32,
+              50
+            ],
+            [
+              32,
+              58
+            ],
+            [
+              10,
+              58
+            ],
+            [
+              10,
+              50
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bell_beaker",
+        "name": "Bell Beaker phenomenon (schematic)",
+        "domain": "archaeology",
+        "startYear": -2800,
+        "endYear": -1800,
+        "description": "Western/Central Europe spread — not a unified culture.",
+        "sources": "Needham et al., Bell Beaker transition (extent debated; simplified).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg/330px-020210828_Vessels%2C_Corded_Ware_Culture_5%2C_Bell_Beaker_Culture_6%2C_early_neolithic_artifacts_in_Silesia%2C_Opole.jpg",
+        "imageCaption": "020210828 Vessels, Corded Ware Culture 5, Bell Beaker Culture 6, early neolithic artifacts in Silesia, Opole.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              35
+            ],
+            [
+              22,
+              35
+            ],
+            [
+              22,
+              52
+            ],
+            [
+              -10,
+              52
+            ],
+            [
+              -10,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "olmec_heartland",
+        "name": "Olmec heartland (approx.)",
+        "domain": "archaeology",
+        "startYear": -1500,
+        "endYear": -400,
+        "description": "Southern Gulf Coast micro-region.",
+        "sources": "Diehl, The Olmecs; core zone simplified.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olmec_Colossal_Head%2C_San_Lorenzo%2C_Veracruz%2C_1200-600_BC.jpg/330px-Olmec_Colossal_Head%2C_San_Lorenzo%2C_Veracruz%2C_1200-600_BC.jpg",
+        "imageCaption": "Olmec Colossal Head, San Lorenzo, Veracruz, 1200-600 BC.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96,
+              17
+            ],
+            [
+              -93,
+              17
+            ],
+            [
+              -93,
+              20
+            ],
+            [
+              -96,
+              20
+            ],
+            [
+              -96,
+              17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yayoi_japan",
+        "name": "Yayoi cultural horizon (approx.)",
+        "domain": "archaeology",
+        "startYear": -300,
+        "endYear": 300,
+        "description": "Western Honshu/Kyushu generalized.",
+        "sources": "Imamura, Prehistoric Japan (approximate spread).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bell_%28dotaku%29%2C_Yayoi_people%2C_Japan%2C_found_in_Yahagi%2C_Wakayama%2C_20-250_AD%2C_bronze_-_British_Museum_-_DSC01445.jpg/330px-Bell_%28dotaku%29%2C_Yayoi_people%2C_Japan%2C_found_in_Yahagi%2C_Wakayama%2C_20-250_AD%2C_bronze_-_British_Museum_-_DSC01445.jpg",
+        "imageCaption": "Bell (dotaku), Yayoi people, Japan, found in Yahagi, Wakayama, 20-250 AD, bronze - British Museum - DSC01445.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128,
+              31
+            ],
+            [
+              142,
+              31
+            ],
+            [
+              142,
+              39
+            ],
+            [
+              128,
+              39
+            ],
+            [
+              128,
+              31
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chavin_horizon",
+        "name": "Chavín sphere (approx.)",
+        "domain": "archaeology",
+        "startYear": -900,
+        "endYear": -200,
+        "description": "Northern Peruvian highlands/coast interaction area.",
+        "sources": "Burger, Chavin; schematic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_detail_of_the_Raimondi_Stela.png/330px-A_detail_of_the_Raimondi_Stela.png",
+        "imageCaption": "A detail of the Raimondi Stela.png (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79,
+              -11
+            ],
+            [
+              -74,
+              -11
+            ],
+            [
+              -74,
+              -8
+            ],
+            [
+              -79,
+              -8
+            ],
+            [
+              -79,
+              -11
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mississippian",
+        "name": "Mississippian cultures (schematic mid-continent)",
+        "domain": "archaeology",
+        "startYear": 1000,
+        "endYear": 1350,
+        "description": "Cahokia-centered interaction sphere — not a single state.",
+        "sources": "Milner, Mounds of Cahokia; regional overview simplified.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Monks_Mound_in_July.JPG/330px-Monks_Mound_in_July.JPG",
+        "imageCaption": "Monks Mound, Cahokia (Commons).",
+        "symbolism": "Earthwork capitals, moon-calibrated maize, and copper-covered elites: a riverine world without Eurasian draft animals."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92,
+              33
+            ],
+            [
+              -84,
+              33
+            ],
+            [
+              -84,
+              40
+            ],
+            [
+              -92,
+              40
+            ],
+            [
+              -92,
+              33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "maya_classic",
+        "name": "Maya Lowlands (Classic period, schematic)",
+        "domain": "archaeology",
+        "startYear": 250,
+        "endYear": 900,
+        "description": "Petén/Yucatán box — city-states not one realm.",
+        "sources": "Martin & Grube, Chronicle of the Maya Kings (area generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tikal_-_Temple_of_the_Great_Jaguar.jpg/330px-Tikal_-_Temple_of_the_Great_Jaguar.jpg",
+        "imageCaption": "Tikal - Temple of the Great Jaguar.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92,
+              16
+            ],
+            [
+              -87,
+              16
+            ],
+            [
+              -87,
+              20
+            ],
+            [
+              -92,
+              20
+            ],
+            [
+              -92,
+              16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "latin_western_mediterranean",
+        "name": "Latin speech — Western Roman sphere (schematic)",
+        "domain": "linguistic",
+        "startYear": -100,
+        "endYear": 500,
+        "description": "Romance ancestor zone before full dialect continuum — illustrative.",
+        "sources": "Herman, Vulgar Latin; areal linguistics generalized to a box.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/RomanVirgilFolio014rVergilPortrait.jpg/330px-RomanVirgilFolio014rVergilPortrait.jpg",
+        "imageCaption": "Vergilius manuscript—Roman square capitals (Commons).",
+        "symbolism": "Literary Latin on papyrus and wax, public capitals on stone: prestige epigraphy and school tradition as the hinge into Romance graphic culture."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8,
+              36
+            ],
+            [
+              18,
+              36
+            ],
+            [
+              18,
+              48
+            ],
+            [
+              -8,
+              48
+            ],
+            [
+              -8,
+              36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "romance_medieval",
+        "name": "Romance vernacular area (high medieval, schematic)",
+        "domain": "linguistic",
+        "startYear": 900,
+        "endYear": 1300,
+        "description": "Iberia + south France rough — not isogloss-accurate.",
+        "sources": "Posner, Romance Languages (areal simplification).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grandes_chroniques_Roland.jpg/330px-Grandes_chroniques_Roland.jpg",
+        "imageCaption": "Grandes chroniques de France, Chanson de Roland (Commons).",
+        "symbolism": "Caroline and gothic book hands, chivalric codices, and vernacular song: reading communities and script shift away from classical orthography."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              36
+            ],
+            [
+              5,
+              36
+            ],
+            [
+              5,
+              44
+            ],
+            [
+              -10,
+              44
+            ],
+            [
+              -10,
+              36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "arabic_expansion",
+        "name": "Arabic — early Islamic expansion (schematic)",
+        "domain": "linguistic",
+        "startYear": 650,
+        "endYear": 900,
+        "description": "Arabization is gradual and uneven — box shows a broad illustrative areal maximum.",
+        "sources": "Holes, Modern Arabic; Kaye, Hamito-Semitic (historical spread generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kufic_Quran%2C_sura_7%2C_verses_86-87.jpg/330px-Kufic_Quran%2C_sura_7%2C_verses_86-87.jpg",
+        "imageCaption": "Qurʾān folio in early Kufic (Commons).",
+        "symbolism": "Kufic and cursive traditions tie liturgy, law, and poetic performance; Arabic script becomes a prestige graphization across newly Islamized languages."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              12
+            ],
+            [
+              60,
+              12
+            ],
+            [
+              60,
+              38
+            ],
+            [
+              25,
+              38
+            ],
+            [
+              25,
+              12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "slavic_expansion",
+        "name": "Early Slavic dialect continuum (schematic)",
+        "domain": "linguistic",
+        "startYear": 600,
+        "endYear": 900,
+        "description": "Eastern / Central European spread — not political borders.",
+        "sources": "Schenker, Slavic languages; historical linguistics map simplified.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ostromir_Gospel_1.jpg/330px-Ostromir_Gospel_1.jpg",
+        "imageCaption": "Ostromir Gospels—early East Slavic Cyrillic (Commons).",
+        "symbolism": "Cyrillic (and related mission scripts) anchor church Slavonic; vernacular orthographies later multiply but share a common liturgical backbone."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              44
+            ],
+            [
+              42,
+              44
+            ],
+            [
+              42,
+              55
+            ],
+            [
+              12,
+              55
+            ],
+            [
+              12,
+              44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "germanic_sprachraum",
+        "name": "Germanic dialects — Iron Age / Roman era (hypothetical schematic)",
+        "domain": "linguistic",
+        "startYear": -500,
+        "endYear": 250,
+        "description": "Reconstructed spread; exact limits unknown — marked uncertain in research.",
+        "sources": "Ringe, From Proto-Indo-European to Proto-Germanic (reconstruction; illustrative).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elgesem_runestone.jpg/330px-Elgesem_runestone.jpg",
+        "imageCaption": "Elgesem runestone (Vestfold, elder tradition; Commons).",
+        "symbolism": "Runic epigraphy as short public and memorial writing; Latin script arrives for law and liturgy, but runes retain a counter-tradition on metal and stone."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5,
+              47
+            ],
+            [
+              30,
+              47
+            ],
+            [
+              30,
+              60
+            ],
+            [
+              5,
+              60
+            ],
+            [
+              5,
+              47
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bantu_expansion",
+        "name": "Bantu languages — early expansion phase (schematic)",
+        "domain": "linguistic",
+        "startYear": 1,
+        "endYear": 800,
+        "description": "Sub-equatorial Africa — millennia-long process compressed here.",
+        "sources": "Nurse & Philippson, Bantu Languages (routes debated; box is illustrative).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bantu_expansion-ar.png/330px-Bantu_expansion-ar.png",
+        "imageCaption": "Schematic Bantu expansion streams (Commons map).",
+        "symbolism": "Oral genres, drum and dance semiotics, and later Latin / Arabic / Ethiopic contacts: language spread is demic and contact-rich, not one script."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              -35
+            ],
+            [
+              45,
+              -35
+            ],
+            [
+              45,
+              -5
+            ],
+            [
+              15,
+              -5
+            ],
+            [
+              15,
+              -35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "middle_persian_sphere",
+        "name": "Middle Persian / Iranian administrative languages (schematic)",
+        "domain": "linguistic",
+        "startYear": 550,
+        "endYear": 800,
+        "description": "Sasanian and early Islamic Iranian spheres — merged for demo.",
+        "sources": "Lazard, Persian language; Daryaee, Sasanian Persia (areal generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Middle_Persian_inscription.jpg/330px-Middle_Persian_inscription.jpg",
+        "imageCaption": "Middle Persian inscription (Commons).",
+        "symbolism": "Pahlavi book and rock epigraphy under Sasanians; Zoroastrian liturgy and administration in a Perso-Aramaic graphic milieu before New Persian flourishes."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              25
+            ],
+            [
+              78,
+              25
+            ],
+            [
+              78,
+              45
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              44,
+              25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sahul_pleistocene_holocene",
+        "name": "Sahul — Pleistocene archaeology (illustrative)",
+        "domain": "archaeology",
+        "startYear": -48000,
+        "endYear": -8000,
+        "description": "Continental shelf connection then rising seas; human chronology tens of millennia — box is a coarse teaching outline.",
+        "sources": "Hiscock, Archaeology of Ancient Australia; Clarkson et al. (2017) human occupation chronology debates.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/WillandraLakesRegion.JPG/330px-WillandraLakesRegion.JPG",
+        "imageCaption": "Willandra lakes region, NSW (UNESCO, Commons).",
+        "symbolism": "Lakeshore cremations, megafauna overkill debates, and arid-land refugia: the continent’s first millennia as contested science."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110,
+              -10
+            ],
+            [
+              160,
+              -10
+            ],
+            [
+              160,
+              -45
+            ],
+            [
+              110,
+              -45
+            ],
+            [
+              110,
+              -10
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lgm_refugium_sw_europe",
+        "name": "Late Glacial refugia — SW Europe (schematic)",
+        "domain": "archaeology",
+        "startYear": -24000,
+        "endYear": -17000,
+        "description": "Simplified Franco–Cantabrian / Pyrenean refugium model — geography debated.",
+        "sources": "Straus, Magdalenian settlement patterns; climate archaeology syntheses.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Map_of_West_Europe_during_Last_Glacial_Maximum_1.svg/330px-Map_of_West_Europe_during_Last_Glacial_Maximum_1.svg.png",
+        "imageCaption": "Western Europe in the LGM, schematic (Commons).",
+        "symbolism": "Mammoth-steppe, river corridors, and refugial art provinces: recolonisation routes structure later Gravettian and Magdalenian geographies."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              42
+            ],
+            [
+              5,
+              42
+            ],
+            [
+              5,
+              48
+            ],
+            [
+              -10,
+              48
+            ],
+            [
+              -10,
+              42
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "magdalenian_atlantic_facade",
+        "name": "Late Upper Paleolithic — Atlantic Europe (bundle)",
+        "domain": "archaeology",
+        "startYear": -20000,
+        "endYear": -12000,
+        "description": "Bundle of regionally distinct facies; merged for map demo only.",
+        "sources": "Gamble et al., The Upper Palaeolithic Revolution in Europe; site syntheses.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lascaux_painting.jpg/330px-Lascaux_painting.jpg",
+        "imageCaption": "Cave polychrome (Upper Palaeolithic).",
+        "symbolism": "Mobiliary art, harpoons, and deep galleries: animals and abstractions as narrative or hunting-memory systems (readings differ)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              44
+            ],
+            [
+              15,
+              44
+            ],
+            [
+              15,
+              54
+            ],
+            [
+              -10,
+              54
+            ],
+            [
+              -10,
+              44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "epigravettian_po_plain",
+        "name": "Epigravettian — northern Italy & Adriatic (schematic)",
+        "domain": "archaeology",
+        "startYear": -23000,
+        "endYear": -14000,
+        "description": "Glacial—Late Glacial hunter-fisher-gatherer complexes on a coarse rectangle.",
+        "sources": "Mussi, Peopling of Europe; regional Epigravettian overviews.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Venus_of_Willendorf_frontview.jpg/330px-Venus_of_Willendorf_frontview.jpg",
+        "imageCaption": "Venus of Willendorf frontview.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5,
+              43
+            ],
+            [
+              20,
+              43
+            ],
+            [
+              20,
+              47
+            ],
+            [
+              6.5,
+              47
+            ],
+            [
+              6.5,
+              43
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "natufian_levant",
+        "name": "Natufian — Levant (approx.)",
+        "domain": "archaeology",
+        "startYear": -15000,
+        "endYear": -9600,
+        "description": "Sedentary foragers preceding Neolithic; dates vary by site.",
+        "sources": "Bar-Yosef, Natufian Culture; Belfer-Cohen & Goring-Morris summaries.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/NatufianSpread.svg/330px-NatufianSpread.svg.png",
+        "imageCaption": "Natufian distribution (schematic map, Commons).",
+        "symbolism": "Morter basins, grave goods, and early sedentary signals before full domestication; modest bone and shell ornaments mark identity and place."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              29
+            ],
+            [
+              39,
+              29
+            ],
+            [
+              39,
+              35.5
+            ],
+            [
+              34,
+              35.5
+            ],
+            [
+              34,
+              29
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "epipaleolithic_zagros",
+        "name": "Epipaleolithic—PPNB foreland — Zagros slopes (schematic)",
+        "domain": "archaeology",
+        "startYear": -16000,
+        "endYear": -8000,
+        "description": "Long span over diverse facies; geometry is a loose western Iranian / Iraqi foothills box.",
+        "sources": "Hole, Zagros Paleolithic; later PPN sites (e.g. Jarmo context) for later end.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Excavation_at_Paleolithic_site_of_Bawa_Yawan%2C_Zagros%2C_Iran_2017.jpg/330px-Excavation_at_Paleolithic_site_of_Bawa_Yawan%2C_Zagros%2C_Iran_2017.jpg",
+        "imageCaption": "Zagros Epipalaeolithic excavation, Bawa Yawan (Commons).",
+        "symbolism": "Caves and highland forager gardens lead toward Neolithic pack animals in the Fertile Crescent’s eastern arc—local sequences, not one wave."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              33
+            ],
+            [
+              52,
+              33
+            ],
+            [
+              52,
+              38
+            ],
+            [
+              42,
+              38
+            ],
+            [
+              42,
+              33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ppna_levant_syria",
+        "name": "PPNA villages — southern Levant & Damascus basin (bundle)",
+        "domain": "archaeology",
+        "startYear": -10500,
+        "endYear": -8700,
+        "description": "Jericho-scale settlements among others; boundaries schematic.",
+        "sources": "Kuijt & Goring-Morris; Finlayson & Makarewicz on PPNA transitions.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plastered_face_modeled_on_a_human_skull._From_Ain_Ghazal%2C_Jordan._Pre-Pottery_Neolithic_B%2C_c._6500_BCE._Jordan_Archaeological_Museum%2C_Amman.jpg/330px-Plastered_face_modeled_on_a_human_skull._From_Ain_Ghazal%2C_Jordan._Pre-Pottery_Neolithic_B%2C_c._6500_BCE._Jordan_Archaeological_Museum%2C_Amman.jpg",
+        "imageCaption": "Plastered face modeled on a human skull. From Ain Ghazal, Jordan. Pre-Pottery Neolithic B, c. 6500 BCE. Jordan Archaeolo (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.5,
+              30.5
+            ],
+            [
+              39.5,
+              30.5
+            ],
+            [
+              39.5,
+              34.5
+            ],
+            [
+              34.5,
+              34.5
+            ],
+            [
+              34.5,
+              30.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gobekli_upper_taurus",
+        "name": "Pre-Pottery Neolithic — upper Taurus / N. Mesopotamia (schematic)",
+        "domain": "archaeology",
+        "startYear": -10000,
+        "endYear": -7600,
+        "description": "Göbekli Tepe–related horizon among others — not a unified polity.",
+        "sources": "Schmidt, Göbekli Tepe; Dietrich et al. dating debates.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/330px-G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+        "imageCaption": "T-pillars, Göbekli Tepe.",
+        "symbolism": "Monumental T-pillars, fauna reliefs: pre-agricultural ritual display, possibly calendric or totemic; no public script in the later sense of literacy."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37,
+              36
+            ],
+            [
+              42,
+              36
+            ],
+            [
+              42,
+              39.5
+            ],
+            [
+              37,
+              39.5
+            ],
+            [
+              37,
+              36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "early_holocene_fertile_crescent",
+        "name": "Early Holocene — Fertile Crescent village farming (long schematic)",
+        "domain": "archaeology",
+        "startYear": -10000,
+        "endYear": -6200,
+        "description": "Pre-state village networks; overlap with PPNA/PPNB layers on purpose for teaching.",
+        "sources": "Wenke, Patterns in Prehistory; Liverani, Ancient Near East overviews.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg/330px-Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+        "imageCaption": "Fertile crescent Neolithic B circa 7500 BC.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              29
+            ],
+            [
+              50,
+              29
+            ],
+            [
+              50,
+              39
+            ],
+            [
+              34,
+              39
+            ],
+            [
+              34,
+              29
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jomon_long_span",
+        "name": "Jomon — Japanese archipelago (very long span, schematic)",
+        "domain": "archaeology",
+        "startYear": -14000,
+        "endYear": -400,
+        "description": "Hunter-fisher-gatherer pottery traditions; end date regional. Massive simplification.",
+        "sources": "Habu, Jomon archaeology; Imamura, Prehistoric Japan (chronology ranges).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jomon_Flame_Style_Pottery%2C_3000_BC.jpg/330px-Jomon_Flame_Style_Pottery%2C_3000_BC.jpg",
+        "imageCaption": "Jomon Flame Style Pottery, 3000 BC.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127,
+              30
+            ],
+            [
+              147,
+              30
+            ],
+            [
+              147,
+              46
+            ],
+            [
+              127,
+              46
+            ],
+            [
+              127,
+              30
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "clovis_plano_sphere",
+        "name": "Paleoindian — Clovis & related (Central North America, schematic)",
+        "domain": "archaeology",
+        "startYear": -13300,
+        "endYear": -10500,
+        "description": "Pleistocene terminus varies by calibration; not all cultures labeled Clovis.",
+        "sources": "Waters et al. dating debates; North American Paleoindian syntheses.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Folsom_point.png",
+        "imageCaption": "Folsom projectile point, illustration (Commons).",
+        "symbolism": "Fluted points, kill sites, and megafaunal extinctions: Paleoindian time depth without Old World neolithic sheen."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115,
+              28
+            ],
+            [
+              -85,
+              28
+            ],
+            [
+              -85,
+              48
+            ],
+            [
+              -115,
+              48
+            ],
+            [
+              -115,
+              28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yangshao_neolithic_cluster",
+        "name": "Yangshao-related — middle Yellow River (schematic)",
+        "domain": "archaeology",
+        "startYear": -5000,
+        "endYear": -3000,
+        "description": "Painted pottery village cultures before Erlitou—Shang consolidation.",
+        "sources": "Liu & Chen, Archaeology of China; Chang, Shang Civilization context.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Neolithic_Yangshao_Stone_Pestle.jpg/330px-Neolithic_Yangshao_Stone_Pestle.jpg",
+        "imageCaption": "Neolithic Yangshao Stone Pestle.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104,
+              32
+            ],
+            [
+              114,
+              32
+            ],
+            [
+              114,
+              38
+            ],
+            [
+              104,
+              38
+            ],
+            [
+              104,
+              32
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cucuteni_tripolye",
+        "name": "Cucuteni–Trypillia — east Carpathian steppe fringe (schematic)",
+        "domain": "archaeology",
+        "startYear": -4900,
+        "endYear": -3200,
+        "description": "Large tell societies; dates vary by phase regionally.",
+        "sources": "Monah & Popa; Chapman & others on Tripolye mega-sites.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tripolye_pots.jpg/330px-Tripolye_pots.jpg",
+        "imageCaption": "Tripolye pots.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              45
+            ],
+            [
+              35,
+              45
+            ],
+            [
+              35,
+              51
+            ],
+            [
+              22,
+              51
+            ],
+            [
+              22,
+              45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vinča_tisza_horizon",
+        "name": "Vinča / Tisza horizon — central Balkans & Pannonian fringe",
+        "domain": "archaeology",
+        "startYear": -5400,
+        "endYear": -4200,
+        "description": "Neolithic–Chalcolithic tell cultures; merged for overview map.",
+        "sources": "Whittle, Europe in the Neolithic; regional site reports.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Vinca_figurine_1.jpg/330px-Vinca_figurine_1.jpg",
+        "imageCaption": "Vinca figurine 1.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              17,
+              43
+            ],
+            [
+              25,
+              43
+            ],
+            [
+              25,
+              48
+            ],
+            [
+              17,
+              48
+            ],
+            [
+              17,
+              43
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mehrgarh_precursor",
+        "name": "Mehrgarh — early Balochistan farming (precursor sphere)",
+        "domain": "archaeology",
+        "startYear": -7000,
+        "endYear": -2600,
+        "description": "Long occupation sequence feeding Indus horizons; box is coarse.",
+        "sources": "Jarrige et al., Mehrgarh excavations; Possehl, Indus Civilization background.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mehrgarh_ruins.jpg/330px-Mehrgarh_ruins.jpg",
+        "imageCaption": "Mehrgarh mounds, Balochistan (Commons).",
+        "symbolism": "Cereal harvesting, bucrania, and long-distance bead routes prefigure Indus chalcolithic—highland border of the 'Greater Indus' world."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              65,
+              24
+            ],
+            [
+              69.5,
+              24
+            ],
+            [
+              69.5,
+              29.5
+            ],
+            [
+              65,
+              29.5
+            ],
+            [
+              65,
+              24
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "uruk_early_states",
+        "name": "Uruk — early urban Mesopotamia (schematic maximum)",
+        "domain": "history",
+        "startYear": -4000,
+        "endYear": -3100,
+        "description": "City-state network; borders not those of a single empire.",
+        "sources": "Algaze, Uruk World System; Nissen, Early Near Eastern administration.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Top_register%2C_Warka_Vase%2C_from_Uruk%2C_Iraq_Museum.jpg/330px-Top_register%2C_Warka_Vase%2C_from_Uruk%2C_Iraq_Museum.jpg",
+        "imageCaption": "Top register, Warka Vase, from Uruk, Iraq Museum.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              28
+            ],
+            [
+              52,
+              28
+            ],
+            [
+              52,
+              34
+            ],
+            [
+              42,
+              34
+            ],
+            [
+              42,
+              28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "norte_chico_preceramic",
+        "name": "Norte Chico — Late Archaic monuments (Peruvian coast)",
+        "domain": "archaeology",
+        "startYear": -3100,
+        "endYear": -1750,
+        "description": "Caral among many sites; vertical societies along river valleys — rectangle over coastal strip.",
+        "sources": "Haas & Creamer; Shady Solís, Caral–Supe project.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mayor_Pyramid_and_circular_enclosure._Caral%2C_Peru.jpg/330px-Mayor_Pyramid_and_circular_enclosure._Caral%2C_Peru.jpg",
+        "imageCaption": "Mayor Pyramid and circular enclosure. Caral, Peru.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82,
+              -11
+            ],
+            [
+              -74,
+              -11
+            ],
+            [
+              -74,
+              -5
+            ],
+            [
+              -82,
+              -5
+            ],
+            [
+              -82,
+              -11
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lapita_ancestral_oceanic",
+        "name": "Lapita cultural complex — western Pacific (schematic arc)",
+        "domain": "archaeology",
+        "startYear": -3400,
+        "endYear": -2500,
+        "description": "Austronesian seafaring marker assemblage; island geography highly fragmented.",
+        "sources": "Kirch, On the Road of the Winds; Spriggs, Islanders.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lapita_potsherd_from_Fiji_with_face_design.jpg/330px-Lapita_potsherd_from_Fiji_with_face_design.jpg",
+        "imageCaption": "Lapita potsherd from Fiji with face design.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              155,
+              -12
+            ],
+            [
+              182,
+              -12
+            ],
+            [
+              182,
+              -1
+            ],
+            [
+              155,
+              -1
+            ],
+            [
+              155,
+              -12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "proto_afroasiatic_hypothesis",
+        "name": "Proto-Afroasiatic — deep hypothetical homeland range (illustrative)",
+        "domain": "linguistic",
+        "startYear": -12000,
+        "endYear": -8000,
+        "description": "Highly contested glottochronology / phylogeographic proposals—shown only as a teaching band, not consensus geography.",
+        "sources": "Campbell & Poser (historical linguistics); Ehret, Afroasiatic; many competing models.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Egyptian_hieroglyphics.jpg/330px-Egyptian_hieroglyphics.jpg",
+        "imageCaption": "Egyptian hieroglyphs (Commons).",
+        "symbolism": "Deep-time reconstruction is disputed; iconic Egyptian and Semitic writing families show how Afroasiatic branches diverge in spoken form while sharing old areal ties."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              8
+            ],
+            [
+              52,
+              8
+            ],
+            [
+              52,
+              22
+            ],
+            [
+              25,
+              22
+            ],
+            [
+              25,
+              8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tang_dynasty",
+        "name": "Tang dynasty China (approx. high point)",
+        "domain": "history",
+        "startYear": 618,
+        "endYear": 907,
+        "description": "Schematic eastern + western corridor; not equal to every Tang garrison map.",
+        "sources": "Twitchett, Cambridge History of China Vol. 3 (generalized extent).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Portraits_of_Famous_Men_-_Emperor_Tang_of_the_Shang_Dynasty.jpg/330px-Portraits_of_Famous_Men_-_Emperor_Tang_of_the_Shang_Dynasty.jpg",
+        "imageCaption": "Portraits of Famous Men - Emperor Tang of the Shang Dynasty.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102,
+              18
+            ],
+            [
+              122,
+              18
+            ],
+            [
+              122,
+              42
+            ],
+            [
+              102,
+              42
+            ],
+            [
+              102,
+              18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gupta_empire",
+        "name": "Gupta Empire (approx. northern Indian peak)",
+        "domain": "history",
+        "startYear": 320,
+        "endYear": 550,
+        "description": "Classical Sanskrit court culture; box is simplified.",
+        "sources": "Kulke & Rothermund, A History of India; CAH Vol. IV (generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bodhisattva_Padmapani%2C_cave_1%2C_Ajanta%2C_India.jpg/330px-Bodhisattva_Padmapani%2C_cave_1%2C_Ajanta%2C_India.jpg",
+        "imageCaption": "Bodhisattva Padmapani, cave 1, Ajanta, India.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72,
+              20
+            ],
+            [
+              88,
+              20
+            ],
+            [
+              88,
+              30
+            ],
+            [
+              72,
+              30
+            ],
+            [
+              72,
+              20
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "umayyad_caliphate",
+        "name": "Umayyad Caliphate (approx. 750 CE maximum)",
+        "domain": "history",
+        "startYear": 661,
+        "endYear": 750,
+        "description": "From Iberia through Iran — merged schematic rectangle; not provincial detail.",
+        "sources": "Kennedy, The Prophet and the Age of the Caliphates; Hitti, History of the Arabs (generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jerusalem-2013-Temple_Mount-Dome_of_the_Rock_%26_Chain_02.jpg/330px-Jerusalem-2013-Temple_Mount-Dome_of_the_Rock_%26_Chain_02.jpg",
+        "imageCaption": "Jerusalem-2013-Temple Mount-Dome of the Rock & Chain 02.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              14
+            ],
+            [
+              62,
+              14
+            ],
+            [
+              62,
+              44
+            ],
+            [
+              -10,
+              44
+            ],
+            [
+              -10,
+              14
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mongol_empire_peak",
+        "name": "Mongol Empire (combined maximum, schematic)",
+        "domain": "history",
+        "startYear": 1206,
+        "endYear": 1294,
+        "description": "Very coarse Eurasian band; successor khanates excluded from single box.",
+        "sources": "Morgan, The Mongols; Cambridge History of Inner Asia (illustrative).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Empire_of_Genghis_Khan_at_his_death.png/330px-Empire_of_Genghis_Khan_at_his_death.png",
+        "imageCaption": "Mongol Empire extent (teaching map, Commons).",
+        "symbolism": "Khubilai and successor courts blend steppe, Chinese, and Iranian visual orders; the Ilkhanate sponsors Rashid al-Din’s world histories as imperial display."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              25
+            ],
+            [
+              125,
+              25
+            ],
+            [
+              125,
+              55
+            ],
+            [
+              35,
+              55
+            ],
+            [
+              35,
+              25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "inca_tawantinsuyu",
+        "name": "Inca Empire (Tawantinsuyu, schematic Andean axis)",
+        "domain": "history",
+        "startYear": 1438,
+        "endYear": 1533,
+        "description": "North–south corridor along highlands; coasts simplified.",
+        "sources": "D'Altroy, The Incas; Rowe, standard syntheses (extent generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sacsayhuaman_esplanade.jpg/330px-Sacsayhuaman_esplanade.jpg",
+        "imageCaption": "Sacsayhuaman esplanade.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81,
+              -18
+            ],
+            [
+              -65,
+              -18
+            ],
+            [
+              -65,
+              -1
+            ],
+            [
+              -81,
+              -1
+            ],
+            [
+              -81,
+              -18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mississippian_cahokia",
+        "name": "Mississippian — Cahokia & American Bottom (schematic)",
+        "domain": "archaeology",
+        "startYear": 1050,
+        "endYear": 1350,
+        "description": "Major mound center; rectangle over central Mississippi valley locale.",
+        "sources": "Pauketat, Cahokia; Fowler, The Cahokia Atlas (simplified).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Monks_Mound_in_July.JPG/330px-Monks_Mound_in_July.JPG",
+        "imageCaption": "Cahokia, Monks Mound (Commons).",
+        "symbolism": "Civic-ceremonial core of the Mississippian world: mounds, plazas, and ritually charged shell/copper that encode ranked alliance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91,
+              38
+            ],
+            [
+              -89,
+              38
+            ],
+            [
+              -89,
+              39.5
+            ],
+            [
+              -91,
+              39.5
+            ],
+            [
+              -91,
+              38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "byzantine_empire_maurice",
+        "name": "Byzantine Empire (late 6th c., schematic)",
+        "domain": "history",
+        "startYear": 582,
+        "endYear": 602,
+        "description": "Eastern Mediterranean core under Maurice — merged rough outline.",
+        "sources": "Treadgold, A History of the Byzantine State and Society (generalized).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef%2C_en_regardant_l%27occident_%28Hagia_Sophia_-_Ayasofya_Mosque_nave%29.jpg/330px-Gaspare_Fossati_-_Louis_Haghe_-_Vue_g%C3%A9n%C3%A9rale_de_la_grande_nef%2C_en_regardant_l%27occident_%28Hagia_Sophia_-_Ayasofya_Mosque_nave%29.jpg",
+        "imageCaption": "Gaspare Fossati - Louis Haghe - Vue générale de la grande nef, en regardant l'occident (Hagia Sophia - Ayasofya Mosque n (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              30
+            ],
+            [
+              46,
+              30
+            ],
+            [
+              46,
+              45
+            ],
+            [
+              22,
+              45
+            ],
+            [
+              22,
+              30
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "proto_sino_tibetan_hypothesis",
+        "name": "Early Sino-Tibetan — hypothetical Yellow River / Himalayan fringe (teaching band)",
+        "domain": "linguistic",
+        "startYear": -8000,
+        "endYear": -4000,
+        "description": "Dates and homelands debated in phylogenetic literature; illustrative box only.",
+        "sources": "Sagart et al. (2019) PNAS; LaPolla & Thurgood, overview handbooks.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sino-Tibetan_languages.png/330px-Sino-Tibetan_languages.png",
+        "imageCaption": "Sino-Tibetan languages (Commons overview map).",
+        "symbolism": "Chinese logography, Tibetic and Burmese Brahmic offshoots, and diverse smaller lects: hypothetical homelands pair with many independent writing histories."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95,
+              22
+            ],
+            [
+              118,
+              22
+            ],
+            [
+              118,
+              36
+            ],
+            [
+              95,
+              36
+            ],
+            [
+              95,
+              22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "indus_valley_civ",
+        "name": "Indus Valley Civilization (Mature Harappan, schematic)",
+        "domain": "archaeology",
+        "startYear": -2600,
+        "endYear": -1900,
+        "description": "Indus–Ghaggar–Hakra floodplains; twin urban cores generalized into one teaching box.",
+        "sources": "Possehl, The Indus Civilization; Kenoyer, Ancient Cities of the Indus (extent simplified).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png/330px-Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png",
+        "imageCaption": "Mature Indus (overview map).",
+        "symbolism": "Seals, Great Bath, grid streets: public measurability and water ritual as civic ideology (interpretations differ)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              66,
+              22
+            ],
+            [
+              72,
+              22
+            ],
+            [
+              72,
+              30
+            ],
+            [
+              66,
+              30
+            ],
+            [
+              66,
+              22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "khmer_angkor",
+        "name": "Khmer Empire — Angkorian peak (schematic)",
+        "domain": "history",
+        "startYear": 802,
+        "endYear": 1431,
+        "description": "Mainland Southeast Asia core; modern borders ignored.",
+        "sources": "Higham, The Civilization of Angkor; Chandler, A History of Cambodia (generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Khmer_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg/330px-Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
+        "imageCaption": "Angkor Wat (Commons).",
+        "symbolism": "Hindu-Buddhist baray and temple-mountain cosmograms; relief galleries display epic, royal dharma, and conquest as visible scripture."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102,
+              10
+            ],
+            [
+              108,
+              10
+            ],
+            [
+              108,
+              15
+            ],
+            [
+              102,
+              15
+            ],
+            [
+              102,
+              10
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "carolingian_francia",
+        "name": "Carolingian Empire — Charlemagne (schematic)",
+        "domain": "history",
+        "startYear": 768,
+        "endYear": 814,
+        "description": "Western Europe core under unified Carolingian rule — rough rectangle.",
+        "sources": "McKitterick, Charlemagne; Nelson, King and Emperor (extent illustrative).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carolingian_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Charlemagne_Agostino_Cornacchini_Vatican.jpg/330px-Charlemagne_Agostino_Cornacchini_Vatican.jpg",
+        "imageCaption": "Charlemagne Agostino Cornacchini Vatican.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2,
+              44
+            ],
+            [
+              16,
+              44
+            ],
+            [
+              16,
+              52
+            ],
+            [
+              2,
+              52
+            ],
+            [
+              2,
+              44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "songhai_mali",
+        "name": "West African empires — Songhai zenith (schematic)",
+        "domain": "history",
+        "startYear": 1464,
+        "endYear": 1591,
+        "description": "Sahelian bend and Niger trade axis; not a precise Songhai boundary map.",
+        "sources": "Hunwick, Timbuktu and the Songhay Empire; UNESCO Sahel histories (generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Songhai_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MaliDjenn%C3%A9Mosqu%C3%A9e.JPG/330px-MaliDjenn%C3%A9Mosqu%C3%A9e.JPG",
+        "imageCaption": "MaliDjennéMosquée.JPG (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6,
+              8
+            ],
+            [
+              8,
+              8
+            ],
+            [
+              8,
+              18
+            ],
+            [
+              -6,
+              18
+            ],
+            [
+              -6,
+              8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "viking_scandinavia",
+        "name": "Viking Age Scandinavia (homeland, schematic)",
+        "domain": "archaeology",
+        "startYear": 793,
+        "endYear": 1066,
+        "description": "Norse cultural core — Denmark, Norway, southern Sweden as one teaching box.",
+        "sources": "Sawyer, The Oxford Illustrated History of the Vikings; dendrochronology syntheses (generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Viking_Age",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Osebergskipet_2016.jpg/330px-Osebergskipet_2016.jpg",
+        "imageCaption": "Oseberg ship, Norway (Commons).",
+        "symbolism": "Oseberg textiles, stave churches, and rune-stone public memory: coastal prestige loops tie fjords to the Dnieper and Volga."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              54
+            ],
+            [
+              22,
+              54
+            ],
+            [
+              22,
+              70
+            ],
+            [
+              8,
+              70
+            ],
+            [
+              8,
+              54
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "safavid_iran",
+        "name": "Safavid Iran (early Shahs, schematic)",
+        "domain": "history",
+        "startYear": 1501,
+        "endYear": 1736,
+        "description": "Persian plateau and core provinces — illustrative, not Qizilbash administrative map.",
+        "sources": "Newman, Safavid Iran; Cambridge History of Iran Vol. 6 (extent generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Safavid_dynasty",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Frame_in_the_frame_of_Imam_Mosque_of_Isfahan.jpg/330px-Frame_in_the_frame_of_Imam_Mosque_of_Isfahan.jpg",
+        "imageCaption": "Frame in the frame of Imam Mosque of Isfahan.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              25
+            ],
+            [
+              62,
+              25
+            ],
+            [
+              62,
+              40
+            ],
+            [
+              44,
+              40
+            ],
+            [
+              44,
+              25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "south_america_iberian_colonial",
+        "name": "South America — Iberian colonial sphere (schematic)",
+        "domain": "history",
+        "startYear": 1494,
+        "endYear": 1825,
+        "description": "Single teaching box over the continent during Iberian rule — not viceroyalty or treaty lines; use for era overview only.",
+        "sources": "Bakewell, A History of Latin America; standard colonial surveys (geometry highly generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg/330px-1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg",
+        "imageCaption": "1795 D'Anville Wall Map of South America - Geographicus - SouthAmerica-laruiewhittle-1794.jpg (Wikimedia).",
+        "symbolism": "Monuments, regalia, or map imagery paired with the extent for teaching; see description and sources for nuance."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82,
+              12
+            ],
+            [
+              -34,
+              12
+            ],
+            [
+              -34,
+              -56
+            ],
+            [
+              -82,
+              -56
+            ],
+            [
+              -82,
+              12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "colonial_brazil_capitanias",
+        "name": "Colonial Brazil — captaincies & core settlement (schematic)",
+        "domain": "history",
+        "startYear": 1530,
+        "endYear": 1822,
+        "description": "Atlantic coast and interior penetration — illustrative; borders shifted constantly.",
+        "sources": "Schwartz, Sugar Plantations; Bethell, Colonial Brazil (extent simplified).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Colonial_Brazil",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Novo_mapa_Capitanias.jpg/330px-Novo_mapa_Capitanias.jpg",
+        "imageCaption": "Novo mapa Capitanias.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52,
+              -5
+            ],
+            [
+              -34,
+              -5
+            ],
+            [
+              -34,
+              -34
+            ],
+            [
+              -52,
+              -34
+            ],
+            [
+              -52,
+              -5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "viceroyalty_rio_de_la_plata",
+        "name": "Viceroyalty of the Río de la Plata (approx.)",
+        "domain": "history",
+        "startYear": 1776,
+        "endYear": 1815,
+        "description": "Late colonial Southern Cone — Buenos Aires, Asunción, Potosí linkages; rectangle is not intendancy boundaries.",
+        "sources": "Lynch, Argentine Caudillo; Halperín-Donghi, Politics, Economics and Society (generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg/330px-1795_D%27Anville_Wall_Map_of_South_America_-_Geographicus_-_SouthAmerica-laruiewhittle-1794.jpg",
+        "imageCaption": "1795 D'Anville Wall Map of South America - Geographicus - SouthAmerica-laruiewhittle-1794.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70,
+              -20
+            ],
+            [
+              -53,
+              -20
+            ],
+            [
+              -53,
+              -38
+            ],
+            [
+              -70,
+              -38
+            ],
+            [
+              -70,
+              -20
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tiwanaku_wari_horizon",
+        "name": "Tiwanaku & Wari — Middle Horizon (Andes, schematic)",
+        "domain": "archaeology",
+        "startYear": 500,
+        "endYear": 1000,
+        "description": "Altiplano / central Andean states and interaction spheres — merged teaching box, not two separate polity maps.",
+        "sources": "Janusek, Identity and Power in the Andean Tiwanaku; Isbell & McEwan, Tiwanaku and Wari (distribution generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tiwanaku_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bolivia_-_Gate_of_the_Sun_detail_-_Tiwanaku_or_Tiahuanaco_02.jpg/330px-Bolivia_-_Gate_of_the_Sun_detail_-_Tiwanaku_or_Tiahuanaco_02.jpg",
+        "imageCaption": "Bolivia - Gate of the Sun detail - Tiwanaku or Tiahuanaco 02.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72,
+              -14
+            ],
+            [
+              -63,
+              -14
+            ],
+            [
+              -63,
+              -19
+            ],
+            [
+              -72,
+              -19
+            ],
+            [
+              -72,
+              -14
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "amazon_earthwork_cultures",
+        "name": "Amazonia — late pre-Columbian earthworks & mound societies (schematic)",
+        "domain": "archaeology",
+        "startYear": 500,
+        "endYear": 1550,
+        "description": "Geoglyphs, ring villages, and riverine polities across a vast area — one coarse basin box for overview.",
+        "sources": "Roosevelt, Amazonian archaeology; de Souza et al. (2018) earthwork surveys (extent illustrative).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pre-Columbian_era#Amazonia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fazenda_Colorada.jpg/330px-Fazenda_Colorada.jpg",
+        "imageCaption": "Fazenda Colorada.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74,
+              -2
+            ],
+            [
+              -48,
+              -2
+            ],
+            [
+              -48,
+              -18
+            ],
+            [
+              -74,
+              -18
+            ],
+            [
+              -74,
+              -2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "quechua_sprachbund_schematic",
+        "name": "Quechua languages — Andean continuum (schematic, modern inclusive)",
+        "domain": "linguistic",
+        "startYear": 1500,
+        "endYear": 2025,
+        "description": "Highland spine from Colombia to Bolivia — uneven shift to Spanish; shown as a teaching band, not census data.",
+        "sources": "Adelaar with Muysken, Languages of the Andes; Ethnologue summaries (areal simplification).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Quechuan_languages",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Inca_Quipu.jpg/330px-Inca_Quipu.jpg",
+        "imageCaption": "Quipu cords (Commons).",
+        "symbolism": "Knotted accounting and colonial Quechua alphabetic record: indigenous and European notations entangle in law, tribute, and sermon."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79,
+              -2
+            ],
+            [
+              -65,
+              -2
+            ],
+            [
+              -65,
+              -24
+            ],
+            [
+              -79,
+              -24
+            ],
+            [
+              -79,
+              -2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tupi_guarani_schematic",
+        "name": "Tupi–Guaraní languages — Atlantic & Paraná (schematic)",
+        "domain": "linguistic",
+        "startYear": 1500,
+        "endYear": 2025,
+        "description": "Coastal and interior branches before and after Portuguese/Spanish contact; Paraguayan Guaraní co-official today — box is not dialect map.",
+        "sources": "Rodrigues, Tupi languages; Jensen, Tupí–Guaraní (areal generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tupi%E2%80%93Guaran%C3%AD_languages",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Libros_en_guarani.JPG/330px-Libros_en_guarani.JPG",
+        "imageCaption": "Guaraní-language books (Commons).",
+        "symbolism": "Jesuit and national orthographies, pictorial catechisms, and today’s vibrant Guaraní print: language survival is tied to visible public text."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55,
+              -2
+            ],
+            [
+              -35,
+              -2
+            ],
+            [
+              -35,
+              -30
+            ],
+            [
+              -55,
+              -30
+            ],
+            [
+              -55,
+              -2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "european_gravettian_core",
+        "name": "Gravettian — Central European mammoth steppe (schematic)",
+        "domain": "archaeology",
+        "startYear": -30000,
+        "endYear": -22000,
+        "description": "Iconic art and structured hunting camps; one broad polygon, not sub-regional facies (Pavlov, Willendorf, etc. simplified).",
+        "sources": "G.E. Sieveking, Magdalenian; Hoffecker, The Early Upper Paleolithic of Central Europe; extent is pedagogical.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gravettian",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/330px-Venus_von_Willendorf_01.jpg",
+        "imageCaption": "Venus of Willendorf (Commons).",
+        "symbolism": "Portable female figurines in mammoth ivory—interpretations (fertility, seasonality, body ideals) are debated; part of a pan-European visual idiom."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              44
+            ],
+            [
+              25,
+              44
+            ],
+            [
+              25,
+              52
+            ],
+            [
+              10,
+              52
+            ],
+            [
+              10,
+              44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "solutrean_southwest_europe",
+        "name": "Solutrean — Pyrenean & French facies (schematic)",
+        "domain": "archaeology",
+        "startYear": -25000,
+        "endYear": -17000,
+        "description": "Lithic bifaces and high-level hunting; coarse western Mediterranean box.",
+        "sources": "Straus, The Role of the Solutrean in Iberia; Solutrean-Hispanic research syntheses; boundaries schematic.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Solutrean",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lascaux_painting.jpg/330px-Lascaux_painting.jpg",
+        "imageCaption": "Cave polychrome (Franco-Cantabrian).",
+        "symbolism": "Cave polychrome animals, hand stencils, and abstract signs: parietal art as place-bound performance and possibly seasonal knowledge."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9,
+              37
+            ],
+            [
+              5,
+              37
+            ],
+            [
+              5,
+              47
+            ],
+            [
+              -9,
+              47
+            ],
+            [
+              -9,
+              37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "eastern_siberia_upper_paleolithic_sunghir",
+        "name": "Eastern Europe — Upper Paleolithic (Kostenki, Sunghir cluster, schematic)",
+        "domain": "archaeology",
+        "startYear": -40000,
+        "endYear": -12000,
+        "description": "Eastern Gravettian and related; mammoth-bone housing and early elaborate burials; huge time span, one box.",
+        "sources": "Praslov & Rogachev, Kostenki; Pitulko, Paleolithic of the Kolyma; spatial extent is generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twin_burial_model_-_Sungir_-_Vladimir_Palaty.jpg/330px-Twin_burial_model_-_Sungir_-_Vladimir_Palaty.jpg",
+        "imageCaption": "Twin burial model - Sungir - Vladimir Palaty.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              48
+            ],
+            [
+              48,
+              48
+            ],
+            [
+              48,
+              60
+            ],
+            [
+              34,
+              60
+            ],
+            [
+              34,
+              48
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "atlas_mountains_iberomaurusian_iberic",
+        "name": "Iberomaurusian & Capsian fringes (NW Africa, schematic)",
+        "domain": "archaeology",
+        "startYear": -20000,
+        "endYear": -10000,
+        "description": "Post-LGM reoccupation; backed bladelets, shell middens, Epipalaeolithic–early Holocene in Maghrib.",
+        "sources": "Barton & colleagues, LGM refugia and re-expansion; Garcea, Saharan Crossroads; outline coarse.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Iberomaurusian",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tassili_-_Bulls_%28rock_engraving%29.jpg/330px-Tassili_-_Bulls_%28rock_engraving%29.jpg",
+        "imageCaption": "Rock engraving, Tassili n’Ajjer (Sahara, Commons).",
+        "symbolism": "Backed blades, ostrich-eggshell beads, and open-air art in arid refugia: Maghrebian technocomplexes tie mobility to water and view-sheds."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10,
+              24
+            ],
+            [
+              12,
+              24
+            ],
+            [
+              12,
+              36
+            ],
+            [
+              -10,
+              36
+            ],
+            [
+              -10,
+              24
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "northeast_africa_aterian_msa",
+        "name": "Aterian MSA—Maghreb and Nile approaches (teaching map)",
+        "domain": "archaeology",
+        "startYear": -90000,
+        "endYear": -20000,
+        "description": "Pedunculate points and tanged tools; broad span and area—compare specialist regional maps.",
+        "sources": "Garcea, Aterian: Techno-economic and environmental perspectives; timespan varies by site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pointes_de_fl%C3%A8ches_sahariennes_%28Ouargla%29.jpg/330px-Pointes_de_fl%C3%A8ches_sahariennes_%28Ouargla%29.jpg",
+        "imageCaption": "Pointes de flèches sahariennes (Ouargla).jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9,
+              15
+            ],
+            [
+              35,
+              15
+            ],
+            [
+              35,
+              33
+            ],
+            [
+              -9,
+              33
+            ],
+            [
+              -9,
+              15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "southern_africa_later_stone_age_micro",
+        "name": "Southern Africa — Howieson’s Poort & later LSA (schematic)",
+        "domain": "archaeology",
+        "startYear": -80000,
+        "endYear": -2000,
+        "description": "Bladelets, osseous work, and Holocene forager intensification; not a single culture—overview box only.",
+        "sources": "Mitchell, The Archaeology of Southern Africa; Wadley, Howieson’s Poort; region simplified.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Behavioral_modernity_in_the_Middle_Stone_Age.jpg/330px-Behavioral_modernity_in_the_Middle_Stone_Age.jpg",
+        "imageCaption": "MSA assemblage illustration (teaching, Commons).",
+        "symbolism": "Howiesons Poort, Still Bay, and later microliths; engraved ochre, shell jewellery, and coastal adaptation as negotiable ‘modern’ signals."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              -35
+            ],
+            [
+              35,
+              -35
+            ],
+            [
+              35,
+              -17
+            ],
+            [
+              12,
+              -17
+            ],
+            [
+              12,
+              -35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "doggerland_paleocoast_pleistocene",
+        "name": "North Sea — Doggerland & Mesolithic coastal plains (paleo-shore, schematic)",
+        "domain": "archaeology",
+        "startYear": -20000,
+        "endYear": -6000,
+        "description": "Submerged plain now under the North Sea; Mesolithic scatters when dry. Shape is a modern projection box, not LGM bathymetry.",
+        "sources": "Amkreutz et al., Mesolithic in Northwestern Europe; Gaffney et al., Doggerland; geometry illustrative only.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Doggerland_10%2C000_BP.jpg/330px-Doggerland_10%2C000_BP.jpg",
+        "imageCaption": "Doggerland 10,000 BP.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0,
+              52
+            ],
+            [
+              8,
+              52
+            ],
+            [
+              8,
+              56
+            ],
+            [
+              0,
+              56
+            ],
+            [
+              0,
+              52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zanzibar_kenya_rift_epipaleolithic",
+        "name": "East Africa — rift and lakeshore foragers to pastoral transition (broad box)",
+        "domain": "archaeology",
+        "startYear": -20000,
+        "endYear": -500,
+        "description": "Hunter-gatherer, Later Stone Age, and early pastoral/iron transitions—several millennia merged for map literacy.",
+        "sources": "Lane, African Archaeology; Marshall & Hildebrand, Before food production in North Kenya; not tribal-scale.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Olorgesailiefouilles%281%29.jpg/330px-Olorgesailiefouilles%281%29.jpg",
+        "imageCaption": "Olorgesailiefouilles(1).jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              -12
+            ],
+            [
+              42,
+              -12
+            ],
+            [
+              42,
+              5
+            ],
+            [
+              30,
+              5
+            ],
+            [
+              30,
+              -12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ppn_b_levant_anatolia_west",
+        "name": "PPNB / Pottery Neolithic — Levant to W. Anatolia (villages & cattle, schematic)",
+        "domain": "archaeology",
+        "startYear": -8800,
+        "endYear": -6000,
+        "description": "Megasites, plastered skulls, early domesticates; Aşıklı, Çayönü, ‘Ain Ghazal, Jericho (period overlap varies).",
+        "sources": "Garfinkel, Burian et al., Neolithization; Ozdoğan, Westward spread of the Neolithic; polygon generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%C3%87atalh%C3%B6y%C3%BCk_2006_IMG_2234_%28207473841%29.jpg/330px-%C3%87atalh%C3%B6y%C3%BCk_2006_IMG_2234_%28207473841%29.jpg",
+        "imageCaption": "Çatalhöyük 2006 IMG 2234 (207473841).jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              31
+            ],
+            [
+              44,
+              31
+            ],
+            [
+              44,
+              39
+            ],
+            [
+              32,
+              39
+            ],
+            [
+              32,
+              31
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "catalhoyuk_chalcolithic_anatolia",
+        "name": "Central Anatolia — Çatalhöyük & Neolithic–Chalcolithic Konya plain (teaching area)",
+        "domain": "archaeology",
+        "startYear": -7100,
+        "endYear": -5200,
+        "description": "Dense agglomerate settlement; art-rich houses; not to scale of individual mounds.",
+        "sources": "Hodder, Çatalhöyük; Mellaart legacy critiqued; areal map simplified.",
+        "wikipedia": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg/330px-%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg",
+        "imageCaption": "Neolithic agglomerate, Çatalhöyük.",
+        "symbolism": "Bull-horn benches, vulture reliefs, interior burials, wall paintings: life-death and wild-domestic cycled in domestic ‘shrines’."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              36
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              35,
+              39
+            ],
+            [
+              32,
+              39
+            ],
+            [
+              32,
+              36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "halaf_mesopotamia_northern",
+        "name": "Halaf & Samarra-related — Northern Mesopotamia (schematic)",
+        "domain": "archaeology",
+        "startYear": -6100,
+        "endYear": -5100,
+        "description": "Painted ware villages; Tell Halaf, Arpachiyah—interaction sphere, not a single state.",
+        "sources": "Akkermans & Schwartz, The Archaeology of Syria; Munchaev & Merpert on Halaf; outline coarse.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Painted_pottery_jar._From_Yarim_Tepe%2C_Iraq._Halaf_culture%2C_5th_millennium_BCE._Iraq_Museum%2C_Baghdad.jpg/330px-Painted_pottery_jar._From_Yarim_Tepe%2C_Iraq._Halaf_culture%2C_5th_millennium_BCE._Iraq_Museum%2C_Baghdad.jpg",
+        "imageCaption": "Painted pottery jar. From Yarim Tepe, Iraq. Halaf culture, 5th millennium BCE. Iraq Museum, Baghdad.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40,
+              34
+            ],
+            [
+              48,
+              34
+            ],
+            [
+              48,
+              38
+            ],
+            [
+              40,
+              38
+            ],
+            [
+              40,
+              34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "uruk_sumer_urban_heartland",
+        "name": "Uruk period & early dynastic Sumer (riverine core, schematic)",
+        "domain": "archaeology",
+        "startYear": -4000,
+        "endYear": -2334,
+        "description": "Cities, writing-precursor tokens, and temple economy; Tigris–Euphrates alluvial box.",
+        "sources": "Nissen, The Early History of the Ancient Near East; Algaze, The Uruk World System; oversimplified map.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Uruk_period_administrative_tablet.jpg",
+        "imageCaption": "Uruk IV administrative tablet (Commons).",
+        "symbolism": "Sealed clay envelopes, bevel-rim bowls, and temple-led redistribution: early cuneiform is accounting theatre before belles lettres."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              29
+            ],
+            [
+              50,
+              29
+            ],
+            [
+              50,
+              34
+            ],
+            [
+              44,
+              34
+            ],
+            [
+              44,
+              29
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bmac_oxus_civilization",
+        "name": "BMAC (Oxus Civilization) — Central Asian oasis (schematic)",
+        "domain": "archaeology",
+        "startYear": -2300,
+        "endYear": -1700,
+        "description": "Margiana and Bactria: fortified sites, steppe and Iranian Plateau contact; not modern borders.",
+        "sources": "Hiebert & Kurbansakhatov, Central Asian village cultures; Sarianidi, Bactria-Margiana; area generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Margiana-300BCE.png/330px-Margiana-300BCE.png",
+        "imageCaption": "Margiana / Bactria (schematic, Commons).",
+        "symbolism": "Oasis fortifications, fire temples, compartmented seals: long-distance style mixing and elite ritual, not a single public epic tradition."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60,
+              35
+            ],
+            [
+              68,
+              35
+            ],
+            [
+              68,
+              42
+            ],
+            [
+              60,
+              42
+            ],
+            [
+              60,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yamnaya_pontic_caspian_herding",
+        "name": "Yamnaya — Pontic–Caspian kurgans & wagons (teaching area)",
+        "domain": "archaeology",
+        "startYear": -3500,
+        "endYear": -2600,
+        "description": "Mobile pastoralist burial mounds; steppe block over Ukraine–Volga; genetics literature widely cited—interpret cautiously.",
+        "sources": "Frachetti, Pastoralist Landscapes; Anthony, The Horse, the Wheel, and Language; map not isotopic niche precision.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Yamnaya_culture.jpg/330px-Yamnaya_culture.jpg",
+        "imageCaption": "Yamnaya burial, kurgan (Commons).",
+        "symbolism": "Cattle, wagons, and kurgan stelae broadcast mobile pastoral charisma; male-focused grave kits seed later steppe ideologies in archaeological debate."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              42
+            ],
+            [
+              52,
+              42
+            ],
+            [
+              52,
+              55
+            ],
+            [
+              30,
+              55
+            ],
+            [
+              30,
+              42
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sintashta_arkaim_metallurgy",
+        "name": "Sintashta–Arkaim — Ural chariots & early metallurgy (schematic hub)",
+        "domain": "archaeology",
+        "startYear": -2200,
+        "endYear": -1700,
+        "description": "Walled settlements, spoked-wheel evidence; not coextensive with all Sintashta sites.",
+        "sources": "Anthony & Vinogradov, Birth of the chariot; Zdanovich, Arkaim; extent simplified.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC_2015_%28cropped%29.jpg/330px-%D0%90%D1%80%D0%BA%D0%B0%D0%B8%D0%BC_2015_%28cropped%29.jpg",
+        "imageCaption": "Аркаим 2015 (cropped).jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57,
+              51
+            ],
+            [
+              65,
+              51
+            ],
+            [
+              65,
+              57
+            ],
+            [
+              57,
+              57
+            ],
+            [
+              57,
+              51
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "andronovo_horizon_federated",
+        "name": "Andronovo horizon — Eurasian steppe & oases (schematic range)",
+        "domain": "archaeology",
+        "startYear": -2000,
+        "endYear": -900,
+        "description": "Metallurgical networks across steppe; often linked in debate to later Iranian/Saka worlds—highly general box.",
+        "sources": "Kuzmina, The Origin of the Indo-Iranians; Hiebert, Central Asia; areal not genetic map.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Andronovo_culture.jpg/330px-Andronovo_culture.jpg",
+        "imageCaption": "Andronovo culture.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              58,
+              38
+            ],
+            [
+              85,
+              38
+            ],
+            [
+              85,
+              55
+            ],
+            [
+              58,
+              55
+            ],
+            [
+              58,
+              38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hittite_old_kingdom_anatolia",
+        "name": "Hittite Old / Middle Kingdom — Anatolia & Syria campaigns (simplified block)",
+        "domain": "history",
+        "startYear": -1680,
+        "endYear": -1180,
+        "description": "Hattusa, Syro-Anatolian polities, Mitanni interactions; not detailed battle-by-battle map.",
+        "sources": "Bryce, The Kingdom of the Hittites; Hoffner, Hittite studies; box schematic.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg/330px-Lion_Gate%2C_Hattusa_13_%28cropped%29.jpg",
+        "imageCaption": "Lion Gate, Hattuša.",
+        "symbolism": "Lion iconography, Yazılıkaya processions, storm-god festivals: royal religion as cosmic maintenance through liturgy and sacrifice."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26,
+              35
+            ],
+            [
+              45,
+              35
+            ],
+            [
+              45,
+              42
+            ],
+            [
+              26,
+              42
+            ],
+            [
+              26,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "minoan_palatial_crete_aegean",
+        "name": "Minoan palatial—Crete with Aegean thalassocracy hints (simplified box)",
+        "domain": "archaeology",
+        "startYear": -2000,
+        "endYear": -1450,
+        "description": "Palaces, Linear A, Thera eruption horizon; thalassocracy debated—Cretan core highlighted.",
+        "sources": "Shelmerdine, The Cambridge Companion to the Aegean Bronze Age; Warren, Minoan Crete; not site-scale.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Knossos_-_North_Portico_02.jpg/330px-Knossos_-_North_Portico_02.jpg",
+        "imageCaption": "Knossos, north portico.",
+        "symbolism": "Bull sports, lustral basins, marine frescoes: palatial feasting, initiation, and the sea as symbolic horizon (no Homeric state here)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22,
+              33
+            ],
+            [
+              30,
+              33
+            ],
+            [
+              30,
+              37
+            ],
+            [
+              22,
+              37
+            ],
+            [
+              22,
+              33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mycenaean_palatial_mainland",
+        "name": "Mycenaean palatial—Greek mainland & Argolid core (simplified)",
+        "domain": "archaeology",
+        "startYear": -1600,
+        "endYear": -1100,
+        "description": "Linear B admin; citadels, shaft graves; not every LH III province.",
+        "sources": "Shelmerdine, Palaces and politics; Whitley, Greek archaeology; one merged polygon.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lion_Gate%2C_Mycenae%2C_201510.jpg/330px-Lion_Gate%2C_Mycenae%2C_201510.jpg",
+        "imageCaption": "Lion Gate, Mycenae, 201510.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              35
+            ],
+            [
+              28,
+              35
+            ],
+            [
+              28,
+              40
+            ],
+            [
+              20,
+              40
+            ],
+            [
+              20,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "shang_heartland_henan",
+        "name": "Shang — Central Plains bronze cities (Erlitou to Anyang, schematic area)",
+        "domain": "archaeology",
+        "startYear": -1600,
+        "endYear": -1046,
+        "description": "Anyang, ritual bronze, chariot tombs, oracle bones; political extent debated—core floodplain only.",
+        "sources": "Keightley, The Ancestral Landscape; Thorp, China in the Early Bronze Age; extent pedagogical.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shang_dynasty.svg/330px-Shang_dynasty.svg.png",
+        "imageCaption": "Shang polity (schematic map, Commons).",
+        "symbolism": "Bronze zun/ding in tombs, oracle bones on scapulae: king as chief diviner; writing as kingly and ritual archive."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110,
+              32
+            ],
+            [
+              118,
+              32
+            ],
+            [
+              118,
+              38
+            ],
+            [
+              110,
+              38
+            ],
+            [
+              110,
+              32
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "west_zhou_feng_hao_heartland",
+        "name": "Western Zhou—Wei River & Guanzhong (early royal domain, approximate)",
+        "domain": "history",
+        "startYear": -1046,
+        "endYear": -771,
+        "description": "Fenghao capitals, bronze inscriptions, classical Mandate of Heaven; not the full Zhou ecumene.",
+        "sources": "Shaughnessy, Sources of Western Zhou; Rawski & Rawson, ed., China, map generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zhou_dynasty_ritual_bell%2C_Rijksmuseum.jpg/330px-Zhou_dynasty_ritual_bell%2C_Rijksmuseum.jpg",
+        "imageCaption": "Zhou dynasty ritual bell, Rijksmuseum.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104,
+              32
+            ],
+            [
+              112,
+              32
+            ],
+            [
+              112,
+              36
+            ],
+            [
+              104,
+              36
+            ],
+            [
+              104,
+              32
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "warring_states_era_basin",
+        "name": "Eastern Zhou — Warring States (schematic, multiple polity extent merged)",
+        "domain": "history",
+        "startYear": -475,
+        "endYear": -221,
+        "description": "Hundred schools, cavalry, walls; Qin eventually unifying—illustrative blob over north China basins.",
+        "sources": "Lewis, Warring States; Loewe & Shaughnessy, The Cambridge History of Ancient China; not to district map.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/China_Warring_States_Period.png/330px-China_Warring_States_Period.png",
+        "imageCaption": "Warring States China (teaching map, Commons).",
+        "symbolism": "Hundred schools debate, chariot inscriptions, and jade/ bronze burial theatre: state competition makes philosophy and arms races publicly visible."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102,
+              26
+            ],
+            [
+              122,
+              26
+            ],
+            [
+              122,
+              40
+            ],
+            [
+              102,
+              40
+            ],
+            [
+              102,
+              26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dilmun_bahrain_tylos_trade",
+        "name": "Dilmun / Tylos — Gulf entrepôts & trade (broad gulf map)",
+        "domain": "archaeology",
+        "startYear": -3000,
+        "endYear": -300,
+        "description": "Pearl fishing, seafaring, Mesopotamian & Indus linkages; Bahrain core + gulf schematized.",
+        "sources": "Crawford, Dilmun and its Gulf neighbours; Potts, Arabian Gulf; outline simplified.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Moyen_Orient_3mil_aC.svg/330px-Moyen_Orient_3mil_aC.svg.png",
+        "imageCaption": "3rd millennium Near East (map context, Commons).",
+        "symbolism": "Gulf entrepôts, cuneiform and Indus contact: trade prestige and stelae display; religious forms borrow from Mesopotamia and the Gulf."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46,
+              24
+            ],
+            [
+              52,
+              24
+            ],
+            [
+              52,
+              28
+            ],
+            [
+              46,
+              28
+            ],
+            [
+              46,
+              24
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "south_arabia_sheba_aksum_overlap",
+        "name": "South Arabian kingdoms (Saba, Ḥaḍramawt) — fringes & Ethiopian links (broad map)",
+        "domain": "history",
+        "startYear": -1000,
+        "endYear": 600,
+        "description": "Incense caravans, dam engineering, epigraphy; Aksum later interacts—simplified Yemen highlands and coast.",
+        "sources": "Nebes & Stein, Ancient South Arabia; Munro, Meroë and the Horn; political edges fuzzy.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Stela_aksum_formated.jpg",
+        "imageCaption": "Stela aksum formated.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              12
+            ],
+            [
+              50,
+              12
+            ],
+            [
+              50,
+              20
+            ],
+            [
+              42,
+              20
+            ],
+            [
+              42,
+              12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bactria_greeks_alexandria_central_asia",
+        "name": "Bactria & Indo-Greeks (post-Alexandrine, schematic)",
+        "domain": "history",
+        "startYear": -256,
+        "endYear": -10,
+        "description": "Graeco-Bactrian and Indo-Greek polities, coinage over Oxus-Indus; not continuous rule everywhere in box.",
+        "sources": "Bopearachchi, Indo-Greek, Indo-Scythian, and Indo-Parthian coins; Holt, Alexander; map coarse.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gold_coin_of_Diodotos_I_of_Bactria.jpg/330px-Gold_coin_of_Diodotos_I_of_Bactria.jpg",
+        "imageCaption": "Gold coin of Diodotos I of Bactria.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60,
+              32
+            ],
+            [
+              78,
+              32
+            ],
+            [
+              78,
+              42
+            ],
+            [
+              60,
+              42
+            ],
+            [
+              60,
+              32
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "teotihuacan_urban_hemisphere_meso",
+        "name": "Teotihuacan state — highland central Mexico (core urban influence, schematic)",
+        "domain": "archaeology",
+        "startYear": 100,
+        "endYear": 650,
+        "description": "Avenue of the Dead, multi-ethnic barrios, Tlaloc vs Quetzalcoatl; influence far (Maya) not fully shaded.",
+        "sources": "Carballo, Urbanization and religion in ancient Central Mexico; Cowgill, Teotihuacan; not obsidian route map.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teotihuac%C3%A1n-5973.JPG/330px-Teotihuac%C3%A1n-5973.JPG",
+        "imageCaption": "Teotihuacan, Street of the Dead.",
+        "symbolism": "Storm-god and feathered-serpent facades, warrior ceramics, and repeated urban axes: a multi-ethnic civic theatre of state religion."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99,
+              18
+            ],
+            [
+              -97,
+              18
+            ],
+            [
+              -97,
+              20
+            ],
+            [
+              -99,
+              20
+            ],
+            [
+              -99,
+              18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zapotec_monte_alban_urban",
+        "name": "Zapotec state — Oaxaca & Monte Albán (schematic valley)",
+        "domain": "archaeology",
+        "startYear": -500,
+        "endYear": 800,
+        "description": "Hilltop capital, calendric inscriptions, Classic–Epiclassic; expansion phases simplified.",
+        "sources": "Marcus, Zapotec civilization; Urcid, Script and society; valley polygon approximate.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/330px-Monte_Alban_West_Side_Platform.jpg",
+        "imageCaption": "Monte Albán, Oaxaca (platforms).",
+        "symbolism": "Hilltop danzantes reliefs, calendric inscriptions, ballcourt sacrifice imagery: highland state theatre of military and cosmic order."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99,
+              16
+            ],
+            [
+              -94,
+              16
+            ],
+            [
+              -94,
+              18
+            ],
+            [
+              -99,
+              18
+            ],
+            [
+              -99,
+              16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chacoan_great_north_american_southwest",
+        "name": "Chacoan — Pueblo great houses & road network (N. New Mexico, schematic)",
+        "domain": "archaeology",
+        "startYear": 850,
+        "endYear": 1200,
+        "description": "Casa Rinconada, Great North Road, turquoise economy; not every outlier shown.",
+        "sources": "Lekson, The Chaco meridian; Crown & Judge, Chaco; regional box for pedagogy only.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chaco_Culture_NHP_%288023723138%29.jpg/330px-Chaco_Culture_NHP_%288023723138%29.jpg",
+        "imageCaption": "Great house, Chaco Canyon.",
+        "symbolism": "Alignments, Great North Road, macaw and turquoise as exotic display, kiva floors: Chacoan religion tied cosmos to landscape and exchange."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110,
+              34
+            ],
+            [
+              -105,
+              34
+            ],
+            [
+              -105,
+              38
+            ],
+            [
+              -110,
+              38
+            ],
+            [
+              -110,
+              34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "funnelbeaker_north_european_plains",
+        "name": "Funnel Beaker (TRB) — Northern & Central European megalith contact (schematic)",
+        "domain": "archaeology",
+        "startYear": -4300,
+        "endYear": -2800,
+        "description": "First northern farmers, long barrows, causewayed enclosures; Corded/Bell Beaker later overlap; huge simplification.",
+        "sources": "Midgley, The Megaliths of Northern Europe; Prescott, Past imprints, coarse extent.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/330px-Stonehenge2007_07_30.jpg",
+        "imageCaption": "Megaliths (illustrative: Stonehenge).",
+        "symbolism": "Barrows, enclosures, and solstice-leaning alignments: megalithic labour as communal memory and seasonal ritual."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              51
+            ],
+            [
+              18,
+              51
+            ],
+            [
+              18,
+              58
+            ],
+            [
+              3,
+              58
+            ],
+            [
+              3,
+              51
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pitted_ware_south_scandinavia",
+        "name": "Pitted Ware & Battle Axe fringes (Baltic, schematic late Neolithic–EBA transition)",
+        "domain": "archaeology",
+        "startYear": -3600,
+        "endYear": -2200,
+        "description": "Hunter-fisher-herder societies along Baltic with copper imports; not identical to Funnel Beaker or Corded Ware.",
+        "sources": "Apel, The coastal communities of the Late Middle Neolithic; Kristiansen, Europe Before History; box coarse.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nordisk_arkeologi._Gropkeramik%2C_boplatsfynd_fr%C3%A5n_Grammahagen_i_Mj%C3%A4llbysocken_i_Blekinge..JPG/330px-Nordisk_arkeologi._Gropkeramik%2C_boplatsfynd_fr%C3%A5n_Grammahagen_i_Mj%C3%A4llbysocken_i_Blekinge..JPG",
+        "imageCaption": "Gropkeramik (pitted ware) finds, Sweden (Nordisk familjebok, Commons).",
+        "symbolism": "Coastal pit-settlements, seal hunting, and ceramic temper pits: a northern Neolithic with distinct vessel grammar vs Corded and Funnel beakers."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              54
+            ],
+            [
+              22,
+              54
+            ],
+            [
+              22,
+              62
+            ],
+            [
+              10,
+              62
+            ],
+            [
+              10,
+              54
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sardinia_nuragic_civilization",
+        "name": "Nuragic Sardinia — nuraghe towers & villages (island block)",
+        "domain": "archaeology",
+        "startYear": -1800,
+        "endYear": -200,
+        "description": "Bronze age towers, well temples, Phoenician/Carthaginian late interaction; Punic not marked separately here.",
+        "sources": "Lilliu, La civiltà dei sardi; Lillie & Ellis, The Nuragic; geometry is entire island for teaching.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Il_Nuraghe_Su_Nuraxi_incantato_%22_Tra_Fiaba_e_Realt%C3%A0_%22_01.JPG/330px-Il_Nuraghe_Su_Nuraxi_incantato_%22_Tra_Fiaba_e_Realt%C3%A0_%22_01.JPG",
+        "imageCaption": "Nuraghe, Sardinia (Su Nuraxi area).",
+        "symbolism": "Cyclopean towers, well temples, bronze figurines: island-wide clan prestige; later Punic-influenced votives."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              38
+            ],
+            [
+              10,
+              38
+            ],
+            [
+              10,
+              42
+            ],
+            [
+              8,
+              42
+            ],
+            [
+              8,
+              38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pacific_marginal_ledger_remote_oceania",
+        "name": "Remote Oceania — late Polynesian & marginal expansion (schematic triangle, ca. 1000 BCE–1500 CE)",
+        "domain": "archaeology",
+        "startYear": -1000,
+        "endYear": 1500,
+        "description": "East Polynesian voyaging, Aotearoa, marginal islands; not every archipelago; triangle for overview.",
+        "sources": "Kirch, On the road of the winds; Dening, Islets of the South Pacific; areal is intentionally broad.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg/330px-Moai_Rano_raraku.jpg",
+        "imageCaption": "Moai Rano raraku.jpg (Wikimedia).",
+        "symbolism": "Material, map, or monument imagery aligned with the teaching extent; see description and primary sources for detail."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -175,
+              -20
+            ],
+            [
+              -150,
+              -20
+            ],
+            [
+              -150,
+              -5
+            ],
+            [
+              -175,
+              -5
+            ],
+            [
+              -175,
+              -20
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "finno_ugric_uralic_homeland_hypotheses_merged",
+        "name": "Uralic — Ural/forest homeland hypotheses (illustrative teaching box only)",
+        "domain": "linguistic",
+        "startYear": -2000,
+        "endYear": 0,
+        "description": "Proto-Uralic dispersal (multiple competing models: forest zone vs Volosovo–Garino lineages in debate). Not consensus geography.",
+        "sources": "Häkkinen, Early contacts; Salminen, Uralic languages; Sammallahti, Pajusalmi; for classroom contrast only.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Uralic_languages.png/330px-Uralic_languages.png",
+        "imageCaption": "Uralic languages (Commons map).",
+        "symbolism": "From Finnic runic loans to Cyrillic and Latin today: forest and tundra lects share areal pressure from Germanic, Slavic, and Russian writing cultures."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24,
+              56
+            ],
+            [
+              68,
+              56
+            ],
+            [
+              68,
+              66
+            ],
+            [
+              24,
+              66
+            ],
+            [
+              24,
+              56
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "japanese_archipelago_ryukyu_ainu_areal",
+        "name": "Japonic & related deep-time layers (Kyūshū–Honshū, schematic—modern bias avoided)",
+        "domain": "linguistic",
+        "startYear": -2000,
+        "endYear": 2025,
+        "description": "Mainland & Ryūkyūan diversity; Ainu in Hokkaido distinct—shown as a north–south band for areal class use.",
+        "sources": "Vovin, Origins of the Japanese language; Pellard, Ryukyuan; not census-based.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hakubyo_Genji_monogatari_emaki_-_scroll_1-1.jpg/330px-Hakubyo_Genji_monogatari_emaki_-_scroll_1-1.jpg",
+        "imageCaption": "Genji monogatari emaki—kana beside Sinitic graphs (Commons).",
+        "symbolism": "Man’yōgana to kana syllabaries; court emaki pair word and image. Ainu katakana transcriptions later mark language documentation as display."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128,
+              24
+            ],
+            [
+              134,
+              24
+            ],
+            [
+              134,
+              46
+            ],
+            [
+              128,
+              46
+            ],
+            [
+              128,
+              24
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bantu_woodland_savanna_sprachraum_ancient",
+        "name": "Bantu—early Iron Age expansion corridors (sub-equatorial, deeply schematic)",
+        "domain": "linguistic",
+        "startYear": -1000,
+        "endYear": 500,
+        "description": "Linguists map multiple streams (east, south, west); this box is a single teaching super-layer—compare specialist maps.",
+        "sources": "Grollemund et al. (2015) PNAS expansion timing; Bostoen & Gregorio de Sousa, Prehistory; highly generalized.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bantu_area.png/330px-Bantu_area.png",
+        "imageCaption": "Bantu language area (Commons schematic).",
+        "symbolism": "Early Iron Age spread left vast oral networks; later scripts (colonial and national) overlay many communities—map is areal, not genetic script."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12,
+              -18
+            ],
+            [
+              38,
+              -18
+            ],
+            [
+              38,
+              6
+            ],
+            [
+              12,
+              6
+            ],
+            [
+              12,
+              -18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "maya_hieroglyphic_literacy_classic",
+        "name": "Maya writing — classic lowland inscriptions (schematic Petén / north)",
+        "domain": "linguistic",
+        "startYear": -500,
+        "endYear": 1100,
+        "description": "Hieroglyphic text on stone, stucco, and bark; areal of literacy elite—not every Maya community or century.",
+        "sources": "Houston, Chinchilla Mazariegos, et al. (corpus and decipherment); Wichmann, languages of the region (generalized box).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Maya_script",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/An_introduction_to_the_study_of_the_Maya_hieroglyphs_%281915%29_%2814771572622%29.jpg/330px-An_introduction_to_the_study_of_the_Maya_hieroglyphs_%281915%29_%2814771572622%29.jpg",
+        "imageCaption": "Maya glyphs in a classic epigraphy plate (Commons).",
+        "symbolism": "Logosyllabic texts on stelae, lintels, and bark paper: calendrics, royal names, and verb morphology make stone and book a single political medium."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92,
+              16
+            ],
+            [
+              -87,
+              16
+            ],
+            [
+              -87,
+              20
+            ],
+            [
+              -92,
+              20
+            ],
+            [
+              -92,
+              16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ogham_insular_celtic_inscriptions",
+        "name": "Ogham — insular epigraphic habit (Ireland, schematic)",
+        "domain": "linguistic",
+        "startYear": -300,
+        "endYear": 700,
+        "description": "Notched stones and occasional wood; late Roman/early medieval Ireland—illustrative box, not every find-spot.",
+        "sources": "Macalister, Corpus Inscriptionum Insularum Celticarum (legacy); McManus, Guide to Ogam; Ireland-focused.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ogham",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tullaherin_Ogham_Stone_1.jpg/330px-Tullaherin_Ogham_Stone_1.jpg",
+        "imageCaption": "Ogham stone, Tullaherin, Ireland (Commons).",
+        "symbolism": "Edge-notched Irish letters on stone markers; a local script idiom alongside Latin on later crosses—monumental naming in a compressed alphabet."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.5,
+              51
+            ],
+            [
+              -5,
+              51
+            ],
+            [
+              -5,
+              55.5
+            ],
+            [
+              -10.5,
+              55.5
+            ],
+            [
+              -10.5,
+              51
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ethiopic_geez_manuscript_tradition",
+        "name": "Gəʿəz — Ethiopic manuscript culture (Horn, schematic)",
+        "domain": "linguistic",
+        "startYear": 400,
+        "endYear": 1700,
+        "description": "Abugida for liturgy, royal chronicles, and highland Christianity—extent is a teaching band, not modern borders.",
+        "sources": "Hudson, Languages of Ethiopia; Getatchew, scribal history (generalized).",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ge%27ez_script",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ethiopic_genesis_%28ch._29%2C_v._11-16%29%2C_15th_century_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible_-_Plate_XII%2C_1%29.jpg/330px-Ethiopic_genesis_%28ch._29%2C_v._11-16%29%2C_15th_century_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible_-_Plate_XII%2C_1%29.jpg",
+        "imageCaption": "Gəʿəz script—Ethiopic biblical page (Commons).",
+        "symbolism": "Gəʿəz as church and state graphy; abugida structure links Semitic consonants to vocalic color—visible liturgy across the Horn."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33,
+              4
+            ],
+            [
+              48,
+              4
+            ],
+            [
+              48,
+              15
+            ],
+            [
+              33,
+              15
+            ],
+            [
+              33,
+              4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "glagolitic_cyrillic_mission_slavia",
+        "name": "Glagolitic & early Cyrillic — mission Slavia (schematic)",
+        "domain": "linguistic",
+        "startYear": 850,
+        "endYear": 1200,
+        "description": "Liturgical first-writing for Slavic, then Cyrillic diffusion—one box for teaching contrast with Latin/Greek spheres.",
+        "sources": "Cubberley, The alphabets of Europe; Schenker, Slavic; simplified Balkan–Slavic band.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Glagolitic_script",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Glagolitic_alphabet_-_Bulgaria.png/330px-Glagolitic_alphabet_-_Bulgaria.png",
+        "imageCaption": "Glagolitic letter table (Commons).",
+        "symbolism": "Glagolitic invention, then Cyrillic: Slavic liturgy made local sound visible; rival Greek and Latin scripts frame a long battle of alphabets."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13,
+              41
+            ],
+            [
+              28,
+              41
+            ],
+            [
+              28,
+              48
+            ],
+            [
+              13,
+              48
+            ],
+            [
+              13,
+              41
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "parthian_empire_iran_mesopotamia",
+        "name": "Parthian Arsacid polity (Iran + Mesopotamia core, schematic)",
+        "domain": "history",
+        "startYear": -247,
+        "endYear": 224,
+        "description": "Equestrian lords, Greek façades, and a silk-road node network—not a uniform province map.",
+        "sources": "Colledge, The Parthians; Sinisi & Köhn, Empires of the Silk Road; simplified.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Parthian_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Parthian_Empire.png/330px-Parthian_Empire.png",
+        "imageCaption": "Parthian realm, teaching map (Commons).",
+        "symbolism": "Equestrian lords, rock reliefs, and a silk-road pluralism: Iranian kingship in dialogue with Hellenic façades and Asian trade cities."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              27
+            ],
+            [
+              64,
+              27
+            ],
+            [
+              64,
+              42
+            ],
+            [
+              44,
+              42
+            ],
+            [
+              44,
+              27
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kushan_empire_silk_road",
+        "name": "Kushan Empire (trans-Hindu Kush & north India, schematic)",
+        "domain": "history",
+        "startYear": 30,
+        "endYear": 375,
+        "description": "Gandhara, Mathura, and Central Asian emporia—borders vary by source.",
+        "sources": "Liu, The Silk Road in world history; Rosenfield, The dynastic art of the Kushans; generalised box.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kushan_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kushanmap.jpg/330px-Kushanmap.jpg",
+        "imageCaption": "Kushan polity, schematic (Commons).",
+        "symbolism": "Buddha coinage, Greco-Roman atelier styles, and Gandharan stūpa: steppe cavalry + Indian urbanisation as visible dharma display."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              64,
+              24
+            ],
+            [
+              85,
+              24
+            ],
+            [
+              85,
+              38
+            ],
+            [
+              64,
+              38
+            ],
+            [
+              64,
+              24
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "scythian_pontic_steppe_horizon",
+        "name": "Scythian & related Ponto–Caspian steppe (schematic)",
+        "domain": "archaeology",
+        "startYear": -800,
+        "endYear": -200,
+        "description": "Kurgan burials, animal-style art, and long-range exchange—not a single fixed border.",
+        "sources": "Cunliffe, The Scythians; Parzinger, Die Skythen; areal is illustrative.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Scythians",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scythian_gold_stag.jpg/330px-Scythian_gold_stag.jpg",
+        "imageCaption": "Scythian gold stag plaque (Commons).",
+        "symbolism": "Kurgan burials, animal-style metalwork, and long-range relay exchange: Ponto-Caspian prestige without a single imperial capital."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              44
+            ],
+            [
+              52,
+              44
+            ],
+            [
+              52,
+              52
+            ],
+            [
+              25,
+              52
+            ],
+            [
+              25,
+              44
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hopewell_earthwork_ohio_valley",
+        "name": "Hopewell — interaction sphere, Ohio & tributaries (schematic)",
+        "domain": "archaeology",
+        "startYear": -200,
+        "endYear": 400,
+        "description": "Earthwork landscapes, exotics, and mortuary mounds; not a political empire.",
+        "sources": "Milner, The Moundbuilders; Charles & Buikstra, Hopewell; basin box only.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hopewell_tradition",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Great_Serpent_Mound.jpg/330px-Great_Serpent_Mound.jpg",
+        "imageCaption": "Great Serpent Mound, Ohio (Commons).",
+        "symbolism": "Riverside earthworks, mica and copper from afar, and long-distance ‘interaction’ without Mesoamerican state forms."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              37
+            ],
+            [
+              -78,
+              37
+            ],
+            [
+              -78,
+              42
+            ],
+            [
+              -90,
+              42
+            ],
+            [
+              -90,
+              37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nok_terraced_plateau_nigeria",
+        "name": "Nok culture — central Nigerian plateau (schematic)",
+        "domain": "archaeology",
+        "startYear": -500,
+        "endYear": 200,
+        "description": "Terracotta and early iron; extent debated—illustrative band.",
+        "sources": "Fagg, Nok terracottas; Breunig et al. iron; simplified.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nok_culture",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Africa_Nok_Head_Kimbell.jpg/330px-Africa_Nok_Head_Kimbell.jpg",
+        "imageCaption": "Nok terracotta head (Kimbell; Commons).",
+        "symbolism": "Lifesize heads, iron smelting debate, and early West African figuration—symbolic power before the Sahel’s later empires."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5,
+              7
+            ],
+            [
+              12,
+              7
+            ],
+            [
+              12,
+              12
+            ],
+            [
+              5,
+              12
+            ],
+            [
+              5,
+              7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ban_chiang_prehistoric_thailand",
+        "name": "Ban Chiang & related neolithic–bronze (NE Thailand, schematic)",
+        "domain": "archaeology",
+        "startYear": -2000,
+        "endYear": 200,
+        "description": "Painted pottery, metallurgy sequences; not the whole of Southeast Asia.",
+        "sources": "UNESCO, Ban Chiang; Higham, Early mainland Southeast Asia; localised box.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ban_Chiang",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ban_Chiang_excavations.jpg/330px-Ban_Chiang_excavations.jpg",
+        "imageCaption": "Ban Chiang excavations (Commons).",
+        "symbolism": "Painted pottery, early metallurgy, and mortuary rites: a mainland Southeast Asian narrative distinct from the Yellow River only."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              16
+            ],
+            [
+              105,
+              16
+            ],
+            [
+              105,
+              20
+            ],
+            [
+              100,
+              20
+            ],
+            [
+              100,
+              16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "maritime_se_asia_srivijaya_era",
+        "name": "Maritime Srivijaya-linked sphere (Sumatra & Malacca strait, schematic)",
+        "domain": "history",
+        "startYear": 600,
+        "endYear": 1200,
+        "description": "Buddha-ship inscriptions, entrepots, and hinterland polities; boundaries unclear.",
+        "sources": "Coedès, The Indianized states; Wolters, Srivijaya; teaching band.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Srivijaya",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Borobudur_1.jpg/330px-Borobudur_1.jpg",
+        "imageCaption": "Borobudur, Java (Commons).",
+        "symbolism": "Buddha mandala architecture, strait emporia, and Sanskrit titles on Sumatra and Java: thalassocracy with temple receipts."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95,
+              -4
+            ],
+            [
+              115,
+              -4
+            ],
+            [
+              115,
+              4
+            ],
+            [
+              95,
+              4
+            ],
+            [
+              95,
+              -4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lanna_temple_states_golden_mandala",
+        "name": "Lanna & northern Thai highland mandala (schematic, post-classical)",
+        "domain": "history",
+        "startYear": 1200,
+        "endYear": 1700,
+        "description": "Sukhothai and Lan Na chronicles overlap; box is a north Thai teaching layer.",
+        "sources": "Wyatt, Thailand: A short history; Grabowsky, Introduction to northern Thai; generalised.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lan_Na",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wat_Phra_That_Doi_Suthep_1.jpg/330px-Wat_Phra_That_Doi_Suthep_1.jpg",
+        "imageCaption": "Wat Phra That Doi Suthep, Chiang Mai (Commons).",
+        "symbolism": "Chedi gold umbrellas, dhamma-sāsana inscriptions, and highland vassalage: a Tai-Buddhist visual order alongside Burmese and Khmer worlds."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98,
+              16
+            ],
+            [
+              102,
+              16
+            ],
+            [
+              102,
+              22
+            ],
+            [
+              98,
+              22
+            ],
+            [
+              98,
+              16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "swahili_coast_stone_towns",
+        "name": "Swahili coast — stone town culture (E. Africa, schematic band)",
+        "domain": "history",
+        "startYear": 800,
+        "endYear": 1500,
+        "description": "Coral-rag cities, dhow monsoons, and Swahili as a public written language; not a single realm.",
+        "sources": "Horton & Middleton, The Swahili; Allen, The Swahili house; areal is broad.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Swahili_culture",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Great_Mosque_Kilwa_Kisiwani.jpg/330px-Great_Mosque_Kilwa_Kisiwani.jpg",
+        "imageCaption": "Great Mosque, Kilwa Kisiwani (Commons).",
+        "symbolism": "Coral rag mosques, merchant chronicles, and monsoon scripts: the coast as a bilingual Persian–Arabic–Bantu public sphere."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              -12
+            ],
+            [
+              45,
+              -12
+            ],
+            [
+              45,
+              0
+            ],
+            [
+              32,
+              0
+            ],
+            [
+              32,
+              -12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "celtic_oppida_west_central_europe",
+        "name": "Late La Tène & Celtic oppidum belt (Gaul, schematic)",
+        "domain": "archaeology",
+        "startYear": -200,
+        "endYear": -50,
+        "description": "Bibracte-type towns and Romanward diplomacy before Caesar’s narrative peak.",
+        "sources": "Cunliffe, The Ancient Celts; Fichtl, Les Gaulois; western European band.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oppidum",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bibracte_Porte_Rebout.jpg/330px-Bibracte_Porte_Rebout.jpg",
+        "imageCaption": "Bibracte oppidum gate, Morvan (Commons).",
+        "symbolism": "Hill-fort renaissance, late La Tène art, and Roman-facing diplomacy: ‘Celtic’ as urbanising Iron Age, not a romantic stereotype only."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2,
+              45
+            ],
+            [
+              10,
+              45
+            ],
+            [
+              10,
+              51
+            ],
+            [
+              -2,
+              51
+            ],
+            [
+              -2,
+              45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "seleucid_hellenistic_west_asia",
+        "name": "Seleucid kingdoms — from Syria to Bactria (schematic, not stable borders)",
+        "domain": "history",
+        "startYear": -312,
+        "endYear": -64,
+        "description": "Macedonian diadochi state(s) in flux; Bactrian breakaway and Parthian rise shrink the old core—illustrative band.",
+        "sources": "Sherwin-White & Kuhrt, From Samarkhand to Sardis; Capdetrey, L’économie séleucide; generalised map.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Seleucid_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Seleucid_Empire_%28flat_map%29_%28green%29.png/330px-Seleucid_Empire_%28flat_map%29_%28green%29.png",
+        "imageCaption": "Seleucid realm, teaching map (Commons).",
+        "symbolism": "Basilikoi, refounded poleis, and Iranian satrapies under Greek royal titulature: a patchwork of cities and camps, not a Roman census map."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              28
+            ],
+            [
+              65,
+              28
+            ],
+            [
+              65,
+              40
+            ],
+            [
+              35,
+              40
+            ],
+            [
+              35,
+              28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sasanian_empire_iran_iraq",
+        "name": "Sasanian Iranshahr (Iran–Mesopotamia core, schematic)",
+        "domain": "history",
+        "startYear": 224,
+        "endYear": 651,
+        "description": "Ctesiphon-centred polity with Mesopotamian and Khorāsān depths; not every frontier year.",
+        "sources": "Daryaee, Sasanian Persia; Canepa, The Two Eyes of the Earth; areal is teaching-grade.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Southwestern_part_of_the_Sasanian_Empire.jpg/330px-Southwestern_part_of_the_Sasanian_Empire.jpg",
+        "imageCaption": "Sasanian southwest, schematic (Commons).",
+        "symbolism": "Ātashkadeh courts, Shapurian rock investitures, and Middle Persian epigraphy: Iranshahr as cosmo-religious theatre on Rome’s eastern rim."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              42,
+              24
+            ],
+            [
+              66,
+              24
+            ],
+            [
+              66,
+              42
+            ],
+            [
+              42,
+              42
+            ],
+            [
+              42,
+              24
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "neo_assyrian_heartland",
+        "name": "Neo-Assyrian — Upper Mesopotamia heartland (schematic)",
+        "domain": "history",
+        "startYear": -911,
+        "endYear": -612,
+        "description": "Nimrud–Nineveh–Khorsabad axis; vassal stripes beyond the Assyrian triangle omitted here.",
+        "sources": "Grayson, Assyria; Radner, The neo-Assyrian empire; not a full provincial map.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Neo-Assyrian_Empire",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lamassu_%28Winged_Bull%29_of_Throne_Room_of_Palace_of_Sargon_II%2C_Khorsabad%2C_Assyria_%2828297494975%29.jpg/330px-Lamassu_%28Winged_Bull%29_of_Throne_Room_of_Palace_of_Sargon_II%2C_Khorsabad%2C_Assyria_%2828297494975%29.jpg",
+        "imageCaption": "Lamassu, Khorsabad (Commons).",
+        "symbolism": "Lamassu, deportation inscriptions, and state workshops: terror-and-gift as legible power along the Tigris corridor."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40,
+              33
+            ],
+            [
+              48,
+              33
+            ],
+            [
+              48,
+              38
+            ],
+            [
+              40,
+              38
+            ],
+            [
+              40,
+              33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "moche_north_peru_ceramic",
+        "name": "Moche — north coast Andean (schematic river valleys)",
+        "domain": "archaeology",
+        "startYear": 1,
+        "endYear": 800,
+        "description": "Huaca-based polities, irrigation, and regalia; not one unified Moche ‘empire’ map.",
+        "sources": "Donnan & McClelland, Moche fineline painting; Dillehay, The Oxford handbook of the Andes; box is a coastal band.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Moche_culture",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Portrait_Vessel_of_a_Ruler%2C_100_BC_-_500_AD%2C_Moche%2C_north_coast_of_Peru%2C_ceramic_and_pigment_-_Art_Institute_of_Chicago_-_DSC00321.JPG/330px-Portrait_Vessel_of_a_Ruler%2C_100_BC_-_500_AD%2C_Moche%2C_north_coast_of_Peru%2C_ceramic_and_pigment_-_Art_Institute_of_Chicago_-_DSC00321.JPG",
+        "imageCaption": "Moche portrait vessel (Commons / Art Institute of Chicago).",
+        "symbolism": "Stirrup-spout pots, regalia in clay, and Andean water cult debate: a coastal theocracy in ceramic, not a single imperial grid."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81,
+              -8
+            ],
+            [
+              -76,
+              -8
+            ],
+            [
+              -76,
+              -3
+            ],
+            [
+              -81,
+              -3
+            ],
+            [
+              -81,
+              -8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nazca_south_coast_culture",
+        "name": "Nazca & south-coast pampa (schematic, geoglyph locale)",
+        "domain": "archaeology",
+        "startYear": -200,
+        "endYear": 600,
+        "description": "Geoglyph fields and Cahuachi–Nasca ritual geography—coarse pampa box.",
+        "sources": "Proulx, A sourcebook; Silverman, Cahuachi; Lozada & Ogburn, et al.; areal is simplified.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nazca",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_54.JPG/330px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_54.JPG",
+        "imageCaption": "Nazca geoglyph lines (Commons).",
+        "symbolism": "Pampa geoglyphs, qanat-linked ritual fields, and Paracas forebears: arid-surface processions and water politics as public geometry."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77,
+              -15
+            ],
+            [
+              -74,
+              -15
+            ],
+            [
+              -74,
+              -13
+            ],
+            [
+              -77,
+              -13
+            ],
+            [
+              -77,
+              -15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "adena_mound_ohio_valley",
+        "name": "Adena — mound-complex, Ohio & upper tributaries (schematic)",
+        "domain": "archaeology",
+        "startYear": -1000,
+        "endYear": -200,
+        "description": "Conical mounds, copper, long-distance exotics; overlaps later Hopewell in places—simplified heartland only.",
+        "sources": "Dragoo, Mounds for the dead; Seeman, The Ohio Hopewell/Adena literature; teaching polygon.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adena_culture",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grave_Creek_Mound%2C_Moundsville%2C_West_Virginia%2C_USA%2C_2_Nov_2019.jpg/330px-Grave_Creek_Mound%2C_Moundsville%2C_West_Virginia%2C_USA%2C_2_Nov_2019.jpg",
+        "imageCaption": "Grave Creek Mound, West Virginia (Commons).",
+        "symbolism": "Conical mounds, copper celts, and log-tomb inhumations: Ohio Valley mortuary bling before the full Hopewell exchange surge."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -85,
+              38
+            ],
+            [
+              -79,
+              38
+            ],
+            [
+              -79,
+              40.5
+            ],
+            [
+              -85,
+              40.5
+            ],
+            [
+              -85,
+              38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hunnic_eurasian_steppe_era",
+        "name": "Hunnic & allied confederations — Ponto-Asiatic steppe (schematic, Attila era)",
+        "domain": "history",
+        "startYear": 350,
+        "endYear": 470,
+        "description": "Military coalitions, Roman diplomacy, and shifting clan blocks—not a single continuous realm.",
+        "sources": "Maenchen-Helfen, The world of the Huns; Pohl, in Cambridge History of the Goths; map is a teaching band.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Huns",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/450_roman-hunnic-empire_1764x1116.jpg/330px-450_roman-hunnic-empire_1764x1116.jpg",
+        "imageCaption": "Roman and Hunnic zones, c. 450, schematic (Commons).",
+        "symbolism": "Saddle diplomacy, gold diadems, and Roman subventions: steppe confederation politics, not a stable taxation boundary."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18,
+              45
+            ],
+            [
+              52,
+              45
+            ],
+            [
+              52,
+              52
+            ],
+            [
+              18,
+              52
+            ],
+            [
+              18,
+              45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "phoenician_levantine_maritime",
+        "name": "Phoenician & Canaanite coast — long-distance network (schematic)",
+        "domain": "history",
+        "startYear": -1200,
+        "endYear": -800,
+        "description": "Byblos, Tyre, Sidon, and outposts: maritime levant, not a unitary state.",
+        "sources": "Aubet, The Phoenicians; Markoe, The Phoenicians; coastal strip and islands omitted beyond teaching scope.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Phoenicia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Phoenician_trade_routes_%28eng%29.svg/330px-Phoenician_trade_routes_%28eng%29.svg.png",
+        "imageCaption": "Phoenician trade routes, teaching map (Commons).",
+        "symbolism": "Tyrian purple, oared commerce, and pilot alphabets: a city-state lattice of harbours, not a unified inland empire."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32,
+              31
+            ],
+            [
+              40,
+              31
+            ],
+            [
+              40,
+              36.5
+            ],
+            [
+              32,
+              36.5
+            ],
+            [
+              32,
+              31
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bai_nanzhao_southwest_china",
+        "name": "Nanzhao & Dali precursors — Yunnan highland mandala (schematic)",
+        "domain": "history",
+        "startYear": 600,
+        "endYear": 1200,
+        "description": "Bai, Yi, and Nanzhao / Dali chronology overlap; not a Han map.",
+        "sources": "Backus, The Nan-chao; Herman, The kingdom of Dali; box around Erhai basin, broadly.",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dali_Kingdom",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Three_Pagodas%2C_Dali_-_panoramio.jpg/330px-Three_Pagodas%2C_Dali_-_panoramio.jpg",
+        "imageCaption": "Three Pagodas, Dali, Yunnan (Commons).",
+        "symbolism": "Buddha-bridge stūpa rows, Dali inscriptions, and Yunnan–Tibetan–Chinese overlap: a highland Tai-Bai corridor, not a Han prefecture read."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              99,
+              22.5
+            ],
+            [
+              102.5,
+              22.5
+            ],
+            [
+              102.5,
+              27.5
+            ],
+            [
+              99,
+              27.5
+            ],
+            [
+              99,
+              22.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "east_polynesian_voyaging_horizon",
+        "name": "East Polynesian expansion — Rapa Nui, Mangareva, Society zone (broad teaching band)",
+        "domain": "archaeology",
+        "startYear": 800,
+        "endYear": 1500,
+        "description": "Ahu megaliths, chiefdom networks, and archipelago colonisation timing—huge water distances; box is a schematic arc.",
+        "sources": "Kirch, On the road of the winds; Wilmshurst et al. radiocarbon debate; areal is intentionally large.",
+        "wikipedia": "https://en.wikipedia.org/wiki/History_of_the_Pacific_islands",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ahu_Tongariki_cropped.jpg/330px-Ahu_Tongariki_cropped.jpg",
+        "imageCaption": "Ahu Tongariki, Rapa Nui (Commons).",
+        "symbolism": "Ahu platforms, star-compass seafaring, and tapu lineage: East Polynesian politics as re-established sacred geography, not a European island chart."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -158,
+              -28
+            ],
+            [
+              -100,
+              -28
+            ],
+            [
+              -100,
+              -5
+            ],
+            [
+              -158,
+              -5
+            ],
+            [
+              -158,
+              -28
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "journeys": [
+    {
+      "id": "echoes-of-empire",
+      "title": "Echoes of empire",
+      "subtitle": "Political maxima across Afro-Eurasia",
+      "steps": [
+        {
+          "year": 117,
+          "lat": 41.9,
+          "lng": 12.5,
+          "zoom": 4,
+          "mode": "language",
+          "caption": "Trajanic Rome: Latin and imperial administration at a Mediterranean zenith — use Compare to layer faiths."
+        },
+        {
+          "year": 750,
+          "lat": 33.3,
+          "lng": 44.4,
+          "zoom": 4,
+          "mode": "compare",
+          "caption": "High Abbasid Caliphate: Arabic as a prestige language across a vast Islamicate sphere."
+        },
+        {
+          "year": 1250,
+          "lat": 47.9,
+          "lng": 106.9,
+          "zoom": 4,
+          "mode": "language",
+          "caption": "Mongol moment: steppe connectivity linking Beijing to the Black Sea — temporal shading shows the schematic maximum."
+        },
+        {
+          "year": 1913,
+          "lat": 20,
+          "lng": 78,
+          "zoom": 3,
+          "mode": "compare",
+          "caption": "British imperial zenith (schematic boxes): English in law and education alongside indigenous language ecologies."
+        }
+      ]
+    },
+    {
+      "id": "americas-deep-time",
+      "title": "Americas — deep time to contact",
+      "subtitle": "Archaeology and empire in the Western Hemisphere",
+      "steps": [
+        {
+          "year": -2500,
+          "lat": -10.5,
+          "lng": -77.5,
+          "zoom": 5,
+          "mode": "language",
+          "caption": "Norte Chico: among the earliest monument-building societies in the hemisphere (illustrative coastal box)."
+        },
+        {
+          "year": 600,
+          "lat": 17.5,
+          "lng": -90.5,
+          "zoom": 4,
+          "mode": "language",
+          "caption": "Classic Maya Lowlands: hieroglyphic literacy and city-states — scrub the timeline to see polygons appear/disappear."
+        },
+        {
+          "year": 1500,
+          "lat": -14,
+          "lng": -72,
+          "zoom": 4,
+          "mode": "compare",
+          "caption": "Inka Tawantinsuyu: Quechua imperial networks along the Andes — pair with temporal linguistic shading."
+        },
+        {
+          "year": 1650,
+          "lat": -15,
+          "lng": -56,
+          "zoom": 4,
+          "mode": "language",
+          "caption": "Iberian colonial South America: schematic viceroyalty-era boxes — illustrative, not treaty lines."
+        }
+      ]
+    },
+    {
+      "id": "old-world-roots",
+      "title": "Old World roots",
+      "subtitle": "States, writing, and language families",
+      "steps": [
+        {
+          "year": -2100,
+          "lat": 32.5,
+          "lng": 45,
+          "zoom": 5,
+          "mode": "language",
+          "caption": "Third Dynasty Ur: cuneiform bureaucracy in a Sumerian–Akkadian matrix — Mesopotamian urban core."
+        },
+        {
+          "year": -250,
+          "lat": 30.6,
+          "lng": 104.1,
+          "zoom": 4,
+          "mode": "language",
+          "caption": "Qin unification: script and standardization on the Chinese ecumene — temporal box over the Qin core."
+        },
+        {
+          "year": 400,
+          "lat": 23.2,
+          "lng": 72.6,
+          "zoom": 4,
+          "mode": "compare",
+          "caption": "Gupta-period Sanskrit culture: court epics and inscriptional networks across northern India."
+        },
+        {
+          "year": 2025,
+          "lat": 48.9,
+          "lng": 2.3,
+          "zoom": 4,
+          "mode": "culture",
+          "caption": "Jump to the present: culture anchors and global ecumene — click empty map for the Field notebook."
+        }
+      ]
+    }
+  ]
+}
